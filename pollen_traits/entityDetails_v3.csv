@@ -1,0 +1,1118 @@
+E.,Sigle,Site.,SiteName,LatDD,LonDD,Elevation,PolDiv1,Name,Responsible,Age model,Use,Upper depth,Lower depth
+1,ADANGE,1,Adange,43.31,41.33,1750,GEO,Georgia,Basil,2,Y,,
+2,AGE,2,Agerods Mosse,55.83,13.42,58,SWE,Sweden,Thomas,2,Y,,
+3,AHL5,3,Ahlenmoor,53.7,8.73,2,DEU,Germany,Thomas,2,Y,,
+4,AKUV,4,Akuvaara,69.13,27.68,170,FIN,Finland,Thomas,2,Y,,
+5,AMTKEL,5,Amtkel,43.27,41.31,1830,GEO,Georgia,Basil,1,Y,,
+6,ARTSLOUG,6,Arts Lough,52.95,-6.43,490,IRL,Ireland,Thomas,2,Y,,80
+7,BALLIN,7,Ballinloghig Lake,52.2,-10.31,84,IRL,Ireland,Thomas,2,Y,,
+8,BALLYBET,8,Ballybetagh,53.17,-6.25,250,IRL,Ireland,Thomas,2,Y,,
+9,BRUVAT,9,Bruvatnet,70.18,28.42,119,NOR,Norway,Thomas,2,Y,,
+10,CARNINO,10,Selle di Carnino,44.15,7.69,1905,ITA,Italy,Walter,2,Y,35,435
+11,CHABADA2,11,Chabada Lake,61.98,129.37,290,RUS,Russia,Thomas,1,Y,,
+12,CHERNIH,12,Chernikhovo,53.42,26.43,168,BLR,Belarus,,2,Y,,
+13,CHIVRES,13,Le Marais St Boetien,49.62,3.82,71.62,FRA,France,Simon,2,Y,,
+14,CS-4,14,Voros-mocsar,46.48,19.19,91,HUN,Hungary,Walter/Basil,1,Y,,
+15,CTAR,15,Starniki,50.27,26.02,198,UKR,Ukraine,Thomas,2,Y,,
+16,DERPUT,16,Derput,57.03,124.12,700,RUS,Russia,Thomas,1,Y,,
+17,DOMSV,17,Domsvatnet,70.32,31.03,120,NOR,Norway,Thomas,2,Y,,
+18,AVRIG1,18,Avrig,45.72,24.38,400,ROU,Romania,Basil,1,Y,,
+19,EDESSA,19,Edessa,40.82,21.95,350,GRC,Greece,Basil,1,Y,,
+20,GAGRA,20,Gagra,43.28,40.27,4,GEO,Georgia,Basil,1,Y,,
+21,GELMT,21,Gel'myazevskoye,49.67,31.83,120,UKR,Ukraine,Thomas,2,Y,,360
+22,GRASVATN,22,Grasvatn,63.7,8.7,45,NOR,Norway,Thomas,2,N,,
+23,IVAN3,23,Ivanovskoye Peat Bog,56.82,38.77,141,RUS,Russia,Thomas,1,Y,,
+24,KALSA,24,Kalsa Mire,58.17,27.45,38,EST,Estonia,Thomas,1,Y,,
+25,KAMEN,25,Kamenicky,49.73,15.97,624,CZE,Czech Republic,Walter/Basil,2,Y,0,127.5
+26,KANSJON,26,Kansjon,57.63,14.53,308,SWE,Sweden,Thomas,2,Y,,460
+27,KARASYE,27,Karas'e Lake,53.03,70.22,435,KAZ,Kazakhstan,,1,Y,,
+28,AVRIG2,18,Avrig,45.72,24.38,400,ROU,Romania,Basil,2,Y,,
+30,KHOMUST,30,Khomustakh Lake,63.82,121.62,120,RUS,Russia,Thomas,1,Y,,
+31,KIRIKU,31,Kirikumae,57.67,27.25,183,EST,Estonia,Thomas,2,Y,,720
+32,KOTYRKOL,32,Kotyrkol' Peat Bog,52.97,70.42,439,KAZ,Kazakhstan,,1,Y,,
+33,LAGOAJO,33,Lago de Ajo,43.05,-6.15,1570,ESP,Spain,Basil,1,Y,,
+34,MADJAGA,34,Lake Madjagara,64.83,120.97,160,RUS,Russia,Thomas,1,Y,,
+35,MOHOS1,28,Mohos,46.08,25.92,1050,ROU,Romania,Basil,1,Y,,
+36,MOHOS2,28,Mohos,46.08,25.92,1050,ROU,Romania,Basil,1,Y,,
+37,BARHEIA,35,Barheivatn,69.7,19.85,317,NOR,Norway,Thomas,2,Y,,
+38,BRURSKAR,36,Brurskardtjorni,61.42,8.67,1309,NOR,Norway,Thomas,2,Y,,
+39,DALMUT,37,Dalmutladdo,69.17,20.72,355,NOR,Norway,Thomas,2,Y,,
+40,OZERKI,40,Ozerki,50.42,80.47,228.51,KAZ,Kazakhstan,,1,Y,,
+41,PASHENN,41,Pashennoe,49.37,75.4,871,KAZ,Kazakhstan,,1,Y,,
+42,PURTAZ,42,Pur-Taz Peatland,66.7,79.73,50,RUS,Russia,Thomas,1,Y,,
+44,SANABRIA,44,Sanabria Marsh,42.1,-6.73,1050,ESP,Spain,Basil,1,Y,,
+45,SUOLLAKH,45,Suollakh,57.05,123.85,827,RUS,Russia,Thomas,1,Y,,
+46,SVERDRUP,46,Sverdrup,74.5,79.5,7,RUS,Russia,Thomas,1,Y,,
+47,A159,47,Black Sea (Southwest 1),42.18,28.92,0,BGR,Bulgaria,Basil,1,Y,,
+52,AF1970,52,Abernethy Forest,56.23,-3.72,221,GBR,United Kingdom,Thomas,1,N,,
+53,AF1974,52,Abernethy Forest,56.23,-3.72,221,GBR,United Kingdom,Thomas,2,Y,,
+54,AHOLAMMI,53,Aholami,61.88,25.22,114,FIN,Finland,Thomas,1,Y,,1180
+56,ALGENDAR,55,Algendar,39.94,3.96,21,ESP,Spain,Basil,1,Y,,
+57,ALLOS,56,Plan du Laus,44.24,6.7,2121,FRA,France,Simon,2,Y,,
+58,ALSA,57,Alsa,43.12,-4.02,560,ESP,Spain,Basil,1,Y,,
+59,AMBY86,58,Hires sur Amby,45.790833,5.283333,410,FRA,France,Simon,2,Y,,
+60,AMPOIX,59,Ampoix,45.63,2.93,1015,FRA,France,Simon,1,Y,,
+62,AMSOPO2,60,Amsoldingersee,46.73,7.58,641,CHE,Switzerland,Walter,2,Y,780,860
+63,AMSOPO3,60,Amsoldingersee,46.73,7.58,641,CHE,Switzerland,Walter,2,Y,250,1200
+64,AMTKEL1,61,Amtkel 1,43.28,41.29,1860,GEO,Georgia,Basil,1,Y,,
+65,AMTKEL2,62,Amtkel 2,43.29,41.28,1850,GEO,Georgia,Basil,1,Y,,
+66,AMTKEL3,63,Amtkel 3,43.27,41.29,1860,GEO,Georgia,Basil,1,Y,,
+67,ANFSHEIL,64,Allt na Feithe Sheilich,57.32,-3.9,595,GBR,United Kingdom,Thomas,1,Y,,200
+68,ANTAS,65,Antas,37.21,-1.82,0,ESP,Spain,Basil,1,Y,,
+69,ANTU,66,Antu Sinijarv,59.13,26.33,95,EST,Estonia,Thomas,2,Y,,
+70,AR1,67,Arkutino Lake,42.37,27.73,0,BGR,Bulgaria,Basil,1,Y,,
+71,AR2,67,Arkutino Lake,42.37,27.73,0,BGR,Bulgaria,Basil,1,Y,,
+74,ARONDE,70,Aronde,49.46,2.69,50,FRA,France,Simon,1,Y,,
+76,ARS1,72,Lake Varna (Arsenala),43.2,27.83,0,BGR,Bulgaria,Basil,1,Y,,
+77,ASBOTOR,73,Asbotorpsjan,58.42,13.83,280,SWE,Sweden,Thomas,2,Y,,
+79,ATW,75,Altenweiher,48.013333,6.994444,926,FRA,France,Simon,1,Y,,
+80,ATXURI01,76,Atxuri,43.25,-1.55,500,ESP,Spain,Basil,1,Y,,
+81,AUNEAU,77,Auneau,48.46,1.79,127,FRA,France,Simon,1,Y,,
+83,BABOZ1,79,Babozero,66.375,37.516667,138,RUS,Russia,Thomas,2,Y,,
+84,BADENTAR,80,Badentarbat,58.04,-5.37,41.45,GBR,United Kingdom,Thomas,1,N,,
+85,BAIDARA,81,Baidara,68.85,66.9,30,RUS,Russia,Thomas,1,Y,,
+87,BASVILLE,83,Basse-Ville,47.19,-1.86,1,FRA,France,Simon,1,Y,,
+89,BEBR5,85,Bebrukas Lake,54.09,24.12,149,LTU,Lithuania,Thomas,2,Y,,880
+97,BELATE01,91,Puerto de Belate,43.03,-2.05,847,ESP,Spain,Basil,1,Y,,
+98,BELATE05,91,Puerto de Belate,43.03,-2.05,847,ESP,Spain,Basil,1,Y,,
+99,BELL,92,Bellefontaine,46.58,6.09,1093,FRA,France,Simon,2,Y,,
+100,BELLE,93,Belle Lake,52.18,-7.03,33,IRL,Ireland,Thomas,2,Y,,
+101,BEMUNO,94,Bois des Amerois,49.74,5.13,415,BEL,Belgium,Thomas,1,N,,
+110,BERGAKYL,96,Bergakyllen,57.17,16.15,73,SWE,Sweden,Thomas,2,Y,,9400
+113,BESBOG,99,Besbog,41.75,23.67,2240,BGR,Bulgaria,Basil,1,Y,,
+114,BEYSEHIR,100,Beysehir Golu I,37.54,31.5,1120,TUR,Turkey,Basil,1,Y,,
+115,BEZDON,101,Bezdonnoe,62.03,32.77,121,RUS,Russia,Thomas,2,Y,,
+116,BEZYMIAN,102,Bezymiannoe,54.22,30,190,BLR,Belarus,,1,Y,,235
+117,BIOT,103,Biot,43.8,7.1,896.5,FRA,France,Simon,1,Y,,
+118,BJARHG,104,Bj_è_rsj_è_holmssj_è_n,55.45,13.78,50,SWE,Sweden,Thomas,1,Y,,
+121,BJORKSJO,107,Bjorksjodamm,57.71,12.39,87,SWE,Sweden,Thomas,2,Y,,
+122,BLATO1,108,Blato,49.04,15.19,645,CZE,Czech Republic,Walter/Basil,2,Y,0,295
+124,BLAVASS,109,Blavasstjonn,64.92,11.67,92,NOR,Norway,Thomas,2,Y,,
+125,BLEDOWO3,110,Bledowo Lake,52.55,20.67,78,POL,Poland,Thomas,2,Y,,
+127,BLKLOCH4,111,Black Loch,56.32,-3.19,90,GBR,United Kingdom,Thomas,1,N,,
+128,BLOMOY,112,Blomoy,60.53,4.88,36,NOR,Norway,Thomas,2,Y,200,
+129,BLUS,113,Blusovie,43.68,41.16,2884,RUS,Russia,Thomas,1,N,,
+132,BOGUDA,116,Lake Boguda,63.67,123.25,120,RUS,Russia,Thomas,1,Y,,
+133,BOHNIGSE,117,Boehnigsee Goldmoos,46.26,7.84,1919.81,CHE,Switzerland,Walter,2,Y,0,603
+136,BOUARA,119,Bouara,35.23,41.18,208.02,SYR,Syrian Arab Republic,,1,Y,,
+138,BRASPART,121,Saint Michel de Braspart,48.42,-3.67,179.71,FRA,France,Simon,1,Y,,
+139,BREDCOUN,122,Brede Bridge,50.93,-0.6,190,GBR,United Kingdom,Thomas,1,Y,,
+142,BUGRIST,125,Bugristoe,58.25,85.17,100,RUS,Russia,Thomas,1,Y,,
+152,BUTTER,127,Butter Mountain,54.17,-6.03,458,GBR,United Kingdom,Thomas,2,Y,,
+155,CAM-LG,130,Cam Loch,58.08,-5,130,GBR,United Kingdom,Thomas,2,Y,,
+156,CAM-PG,130,Cam Loch,58.08,-5,130,GBR,United Kingdom,Thomas,1,Y,,
+157,CARRIV,131,Carrivmoragh,54.32,-5.98,260,GBR,United Kingdom,Thomas,2,Y,,140
+158,CAUDELAI,132,La Caudelais,47.26,-1.78,1,FRA,France,Simon,1,Y,,
+159,CERGOWA,134,Cergowa Gora,49.53,21.7,495,POL,Poland,Thomas,2,Y,,
+160,CHABADA1,11,Chabada Lake,61.98,129.37,290,RUS,Russia,Thomas,1,Y,,
+171,CHISTIC,143,Chistic,57.34,33,205,RUS,Russia,Thomas,2,Y,,
+173,CHROISGP,145,Loch a'Chroisg,57.57,-5.33,176.79,GBR,United Kingdom,Thomas,1,Y,300,
+175,CLAP69,147,Clapeyret,44.15,7.24,2260,FRA,France,Simon,2,Y,,
+176,CLATTERI,148,Clatteringshaws Loch,55.07,-4.28,210,GBR,United Kingdom,Thomas,1,Y,,
+178,COIREBOG,150,Coire Bog,57.85,-4.42,259,GBR,United Kingdom,Thomas,1,Y,75,
+179,COLFIORI,151,Colfiorito,43.03,12.93,752,ITA,Italy,Walter,1,Y,90,440
+180,COOL69B,152,Coolteen,52.35,-6.6,50,IRL,Ireland,Thomas,1,Y,,
+181,COOL71A,152,Coolteen,52.35,-6.6,50,IRL,Ireland,Thomas,1,N,,
+182,COORAN,153,Cooran Lane,55.12,-4.4,274,GBR,United Kingdom,Thomas,2,Y,,
+184,CPORTER,155,Cala'n Porter,39.87,4.13,24,ESP,Spain,Basil,1,Y,,
+185,CRAGGIE,156,Loch Craggie,58,-4.84,154,GBR,United Kingdom,Thomas,1,Y,,
+186,CREGGAN,157,Cregganmore,54.25,-9.6,60,IRL,Ireland,Thomas,1,Y,320,
+188,CROOB,159,Slieve Croob,54.33,-5.98,462,GBR,United Kingdom,Thomas,2,Y,,
+189,CUETOAV,160,Cueto de la Avellanosa,43.12,-4.36,1320,ESP,Spain,Basil,1,Y,,
+191,CZAJKOW1,162,Czajkow,50.78,21.28,206,POL,Poland,Thomas,1,N,,
+192,CZAJKOW2,162,Czajkow,50.78,21.28,206,POL,Poland,Thomas,1,N,,
+193,CZAJKOW4,162,Czajkow,50.78,21.28,206,POL,Poland,Thomas,1,N,,
+195,DAGSMOO,164,Dags Mosse,58.33,14.7,260,SWE,Sweden,Thomas,2,Y,,
+196,DALLICAN,165,Dallican Water,60.391667,-1.1,56,GBR,United Kingdom,Thomas,2,Y,,
+200,DERRYC,169,Derrycunihy,52.02,-9.42,60,IRL,Ireland,Thomas,2,Y,,
+201,DLINNOE,170,Dlinnoe,62.32,33.85,66,RUS,Russia,Thomas,2,Y,,775
+202,DOLG2-3,171,Dolgoe,55.23,28.18,173,BLR,Belarus,,1,Y,,
+203,DOLG5-7,171,Dolgoe,55.23,28.18,173,BLR,Belarus,,2,Y,,
+207,DUNUM,175,Dunum (Hilliges Moor),53.58,7.63,5,DEU,Germany,Thomas,1,Y,,
+208,DURRENEC,176,D_è_rrenecksee-Moor,47.17,13.87,1700,AUT,Austria,Walter,2,N,0,780
+209,DVURANSO,177,Dvur Ansov,48.79,16.39,179,CZE,Czech Republic,Walter/Basil,2,Y,0,270
+212,EMBOU,180,Embouchac,43.57,3.92,1,FRA,France,Simon,2,Y,,
+213,ENNERIE,181,Ennerie,47.240278,-2,2,FRA,France,Simon,1,Y,,
+215,ERMISTU,183,Lake Ermistu,58.37,23.97,17,EST,Estonia,Thomas,2,Y,,
+216,ESTACAS,184,Puerto de las Estaces de Trueba,43.12,-3.7,1160,ESP,Spain,Basil,1,Y,,
+217,ETANG,185,Le Grand Etang de Suze-La-Rousse,44.35,5.23,92,FRA,France,Simon,1,Y,,
+218,EZERIZ,186,Ezerisch,55.85,30,165,BLR,Belarus,,1,Y,,
+219,FADA,187,Loch Fada,57.45,-6.2,135,GBR,United Kingdom,Thomas,1,Y,,
+221,FARSKE,189,F_è_rshesj_è_n,56.17,15.87,14,SWE,Sweden,Thomas,2,Y,,
+223,FJALLS,191,Fjallsj_è_n 1,57.75,12.86,285,SWE,Sweden,Thomas,2,Y,,
+224,FJELLNAS,192,Fj_è_llnas,62.55,12.17,780,SWE,Sweden,Thomas,2,Y,,
+225,FLAATEVA,193,Flaatevatn,59.7,6.17,570,NOR,Norway,Thomas,2,Y,,
+226,FLARKTOT,194,Lake Flarken,58.58,13.67,109,SWE,Sweden,Thomas,2,Y,,
+227,FLETNOWO,195,Fletnowo,53.53,18.65,31,POL,Poland,Thomas,2,Y,,
+229,FLOGELN5,196,Fl_è_geln,53.67,8.76,2,DEU,Germany,Thomas,2,Y,,470
+230,FLOGELN6,196,Fl_è_geln,53.67,8.76,2,DEU,Germany,Thomas,1,Y,,
+231,FOFMOBS6,197,Mobeche Forest,48.52,-1,188.5,FRA,France,Simon,1,Y,,
+232,FOMALS80,198,Malhaire,48.5,-1,172,FRA,France,Simon,0,Y,,
+234,FOUG2,199,Grande Bri_è_re,47.37,-2.25,80,FRA,France,Simon,2,Y,,
+236,FOUGS223,200,Foug_è_res,48.52,-0.83,193.75,FRA,France,Simon,1,Y,,
+237,FOUGS707,200,Foug_è_res,48.52,-0.83,193.75,FRA,France,Simon,2,Y,,
+238,FOUGS942,200,Foug_è_res,48.52,-0.83,193.75,FRA,France,Simon,1,Y,,
+239,FOUGS948,200,Foug_è_res,48.52,-0.83,193.75,FRA,France,Simon,1,Y,,
+240,FOURNEAU,201,Le Fourneau,48.44,-0.19,296.5,FRA,France,Simon,1,Y,,126
+241,FRENGSTA,202,Frengstadsetra,62.57,10.13,790,NOR,Norway,Thomas,2,Y,,
+242,FUCHSSCH,203,Fuchsschwanzmoos,47.12,13.9,1680,AUT,Austria,Walter,2,N,0,440
+243,G89,204,Giecz,52.32,17.36,100,POL,Poland,Thomas,2,Y,,
+244,GALDANA,205,Cala Galdana,39.94,3.97,37.44,ESP,Spain,Basil,1,Y,,
+245,GALINI,206,Aghia Galini,35.1,24.68,0,GRC,Greece,Basil,1,Y,,3000
+246,GALTSJ,207,Galtsj_è_n,56.22,15.22,32,SWE,Sweden,Thomas,2,Y,,
+247,GAR1,208,Mire Garvan,44.12,26.95,20,BGR,Bulgaria,Basil,1,Y,,
+249,GHAB-1,210,Ghab,35.68,36.3,160.05,SYR,Syrian Arab Republic,,1,Y,,
+251,GHAB-3,210,Ghab,35.68,36.3,160.05,SYR,Syrian Arab Republic,,1,Y,,
+253,GHOBHAIN,212,Lochan coir a' Ghobhainn,57.18,-6.3,82,GBR,United Kingdom,Thomas,2,Y,,
+255,GIANNITB,214,Giannitsa B,40.67,22.32,20,GRC,Greece,Basil,1,Y,,
+257,GLUBELKA,216,Lake Glubelka,54.95,26.42,166,BLR,Belarus,,1,Y,,
+258,GLUBOKOE,217,Glubokoe,61.07,36.05,50,RUS,Russia,Thomas,1,Y,,560
+260,GOLHISH,219,G_è_lhisar G_è_l_è_,37.13,29.6,963.05,TUR,Turkey,Basil,1,Y,,
+262,GOTNAVOL,221,Gotnavolok,62.2,33.8,110,RUS,Russia,Thomas,1,Y,,1035
+264,GRETSKOE,223,Gretskoe,55.63,27.77,134,BLR,Belarus,,2,Y,,
+266,HAKULLA5,225,H_è_kulls Mosse,56.28,12.52,125,SWE,Sweden,Thomas,1,N,,
+267,HALOS,226,Halos I,39.17,22.83,0,GRC,Greece,Basil,2,Y,,1070
+268,HALSEG,227,H_è_lsegyl,56.55,14.61,142,SWE,Sweden,Thomas,1,Y,,
+269,HALSJON,228,Halsj_è_n II,56.23,15.32,30,SWE,Sweden,Thomas,2,N,,
+271,HAWKS-3,229,Hawks Tor,50.53,-4.6,229,GBR,United Kingdom,Thomas,2,Y,,
+273,HENSP,230,Lough Henney,54.43,-5.9,25,GBR,United Kingdom,Thomas,1,Y,,
+275,HIRVILAM,232,Hirvilampi,60.63,24.25,114,FIN,Finland,Thomas,2,Y,,
+278,HOCKHAM,234,Hockham Mere,52.5,0.83,33,GBR,United Kingdom,Thomas,1,Y,,
+284,HTIMONER,240,Hort Timoner,39.88,4.13,40,ESP,Spain,Basil,1,Y,,
+286,HULEH,242,Huleh,33.13,35.32,566,ISR,Israel,,1,Y,,
+287,IFBOGT,243,Ivano-Frankovskoye,49.92,23.77,300,UKR,Ukraine,Thomas,1,N,,
+289,ILMEN,245,Ilmen Lake,58.3,31.23,18,RUS,Russia,Thomas,1,Y,,
+290,IMATU,246,Imatu Mire,59.13,27.43,45,EST,Estonia,Thomas,2,Y,,
+294,IOAN249,249,Ioannina,39.65,20.92,470,GRC,Greece,Basil,1,Y,,
+295,IOAN-II,250,Ioannina II,39.69,20.84,470,GRC,Greece,Basil,1,N,,460
+296,IOANNINA,251,Ioannina I,39.76,20.73,470,GRC,Greece,Basil,1,Y,,
+297,ISOKARR,252,Isok_è_rret,60.22,22.13,16,FIN,Finland,Thomas,1,Y,,
+298,IVAN4,23,Ivanovskoye Peat Bog,56.82,38.77,141,RUS,Russia,Thomas,1,Y,,
+299,IVAN5,23,Ivanovskoye Peat Bog,56.82,38.77,141,RUS,Russia,Thomas,2,Y,,
+300,JAN,253,Liptovsky Jan,49.04,19.68,660,SVK,Slovakia,Thomas,2,Y,,
+301,JANCONT,253,Liptovsky Jan,49.04,19.68,660,SVK,Slovakia,Thomas,2,Y,,
+302,JASIEL81,254,Jasiel,49.37,21.89,680,POL,Poland,Thomas,2,Y,,
+305,JC-3-A,257,Cervene blato,48.85,14.93,470,CZE,Czech Republic,Walter/Basil,1,Y,0,400
+309,JC-5-D,258,Borkovicka blata,49.22,14.9,415,CZE,Czech Republic,Walter/Basil,1,Y,0,175
+310,JC-6-A,259,Branna,48.95,14.93,450,CZE,Czech Republic,Walter/Basil,1,N,,
+311,JC-6-B,260,Barbora,48.94,14.93,460,CZE,Czech Republic,Walter/Basil,1,N,0,840
+315,KAAKOTIN,264,Kaarkotinlampi,61.42,25.87,104,FIN,Finland,Thomas,2,Y,,
+316,KAARTLAM,265,Kaartlamminsuo,60.73,24.22,115,FIN,Finland,Thomas,2,Y,,
+317,KALVEN,266,Kalven,56.53,14.56,163,SWE,Sweden,Thomas,1,Y,,
+318,KANGERJ,267,Kangerjoki,66.12,29,288,FIN,Finland,Thomas,2,Y,,
+319,KARAMIK,268,Kararmik Batakligi,38.43,30.8,1000,TUR,Turkey,Basil,1,Y,,
+320,KARASEOZ,269,Karasieozerskoe,56.77,60.75,230,RUS,Russia,Thomas,2,Y,,
+321,KARU,270,Lake Karujarv,58.38,22.2,32,EST,Estonia,Thomas,2,Y,,
+323,KASSJON,272,Kassj_è_n,63.92,20.02,84,SWE,Sweden,Thomas,1,Y,,
+324,KASTORIA,273,Kastoria,40.55,21.32,650,GRC,Greece,Basil,1,Y,,
+326,KCHOD,275,Khodzal,42.95,41.91,2030,GEO,Georgia,Basil,1,Y,,
+327,KEPSKOE,276,Kepskoe,65.08,32.17,124,RUS,Russia,Thomas,1,Y,,
+329,KHIMADIT,278,Khimaditis Ib,40.62,21.58,560,GRC,Greece,Basil,1,Y,,
+330,KHIMAIII,279,Khimaditis III,40.61,21.59,560,GRC,Greece,Basil,1,Y,,
+332,KINGS,281,King's Pool,52.81,-2.11,70,GBR,United Kingdom,Thomas,2,Y,,1545
+333,KIRKKOSA,282,Kirkkosaari,60.87,24.5,84,FIN,Finland,Thomas,2,Y,,
+334,KITTILA,283,Kittil_è_,65.03,24.68,8,FIN,Finland,Thomas,1,Y,,
+336,KLUK74,285,Kluki,54.71,17.28,1,POL,Poland,Thomas,2,Y,,
+337,KOLDYCHE,286,Koldychevo,53.27,26.07,185,BLR,Belarus,,1,Y,,
+338,KOLMILAT,287,Lake Kolmilatr_è_sk,60.28,20.15,12,FIN,Finland,Thomas,2,Y,,
+342,KOPPALO,289,Koppalosuo,62.28,33.65,117,RUS,Russia,Thomas,1,Y,,150
+343,KOYCEGIZ,290,K_è_ycegiz G_è_l_è_,36.88,28.64,20,TUR,Turkey,Basil,1,Y,,
+344,KRAGJR,291,Krageholmssj_è_n,55.5,13.73,43,SWE,Sweden,Thomas,2,Y,,
+345,KROGLO1,292,Krugloye,66.37,37.58,140,RUS,Russia,Thomas,2,Y,,
+346,KROKSJON,293,Kroksj_è_n,56.27,15.02,46,SWE,Sweden,Thomas,2,N,,
+348,KUBEN,295,Kubenskoe Lake,59.7,39.5,110,RUS,Russia,Thomas,2,N,,
+350,KUIVAJAR,297,Kuivajarvi,60.78,23.83,97,FIN,Finland,Thomas,1,Y,,
+351,KUNYOK,298,Kunyok,67.833333,33.666667,220,RUS,Russia,Thomas,2,Y,,
+352,KUPENA,299,Kupena,41.98,24.33,1300,BGR,Bulgaria,Basil,1,Y,,
+353,KUPENA1,299,Kupena,41.98,24.33,1300,BGR,Bulgaria,Basil,1,Y,,
+355,LACKAN1,301,Lackan Bog,54.27,-6.08,75,GBR,United Kingdom,Thomas,2,Y,,
+356,LACKAN2,301,Lackan Bog,54.27,-6.08,75,GBR,United Kingdom,Thomas,2,Y,,250
+358,LAD1097,303,Ladoga Lake,61.56,31.34,5,RUS,Russia,Thomas,2,Y,,
+359,LAGODEH,304,Lagodekhi,41.93,46.42,2750,GEO,Georgia,Basil,1,Y,,
+363,LALAX,308,Lalaxk_è_rret,60.15,21.87,20,FIN,Finland,Thomas,2,Y,,
+364,LANDR,309,Landruchie Mire,61,39,120,RUS,Russia,Thomas,1,N,,
+365,LANDSH,310,Landshaftnoe,64.57,30.53,207,RUS,Russia,Thomas,1,Y,,
+366,LAROYA,311,Laguna de la Roya,42.22,-6.77,1608,ESP,Spain,Basil,1,Y,,
+367,LAUT375,312,Etang du Lautrey,46.59,5.86,788,FRA,France,Simon,1,Y,,
+368,LAUZE775,313,Col des Lauzes,45.77,6.53,1784,FRA,France,Simon,1,Y,,
+369,LAVAU,314,Lavau,47.31,-1.97,1,FRA,France,Simon,1,Y,,
+370,LAVIE,315,La Vie,48.55,-0.26,237.2,FRA,France,Simon,2,Y,22.5,100
+371,LBA,316,Lade Bank,53.08,0.05,-2,GBR,United Kingdom,Thomas,2,Y,,
+372,LDPEAT,174,Loch Dungeon,55.12,-4.32,396,GBR,United Kingdom,Thomas,1,Y,,140
+374,LEDN86,318,Lake Lednica,52.56,17.39,109,POL,Poland,Thomas,2,Y,,
+375,LEDN86V,318,Lake Lednica,52.56,17.39,109,POL,Poland,Thomas,2,Y,,
+376,LEIK1,319,Leikishke Bog,54.53,23.53,120,LTU,Lithuania,Thomas,1,N,,
+377,LEIK2,319,Leikishke Bog,54.53,23.53,120,LTU,Lithuania,Thomas,2,Y,,720
+379,LEMPS83,320,Le Grand Lemps,45.47,5.42,500,FRA,France,Simon,1,Y,,
+381,LEMPS86,320,Le Grand Lemps,45.47,5.42,500,FRA,France,Simon,2,Y,,
+382,LGLOPPSJ,321,Lilla Gloppsj_è_n,59.8,14.63,198,SWE,Sweden,Thomas,2,Y,,
+385,LIIVJARV,323,Liivjarve Bog,59.22,27.58,46,EST,Estonia,Thomas,2,Y,,
+387,LILLSJON,325,Lillsj_è_n,57.08,12.53,80,SWE,Sweden,Thomas,2,Y,,
+388,LIMANT,326,The Bog Liman,49.73,37.67,150,UKR,Ukraine,Thomas,2,Y,,
+389,LJUNGSJ,327,Ljungsj_è_n,57.73,13.33,300,SWE,Sweden,Thomas,1,Y,,
+390,LLANILID,328,Llanilid,51.52,-3.45,60,GBR,United Kingdom,Thomas,2,Y,,
+391,LLDR1,329,Loch Lomond Ross Dubh,56.09,-4.58,8,GBR,United Kingdom,Thomas,2,Y,,
+393,LLONG1,331,Lac Long Inf_è_rieur,44.06,7.45,2093,FRA,France,Simon,2,Y,,
+394,LOBHOLO,332,Lobsigensee,47.03,7.3,514,CHE,Switzerland,Walter,2,Y,85,900
+395,LOCHINSK,333,Lochinskoe,53.55,28.6,164,BLR,Belarus,,1,Y,,900
+396,LOCMAR,334,Locmariaquer,47.55,-2.93,2,FRA,France,Simon,1,Y,,
+397,LOGNE,335,Logne,47.33,-1.5,9.25,FRA,France,Simon,1,Y,,
+399,LOM2-78,337,Lomzyca 2,53.16,22.05,108,POL,Poland,Thomas,1,N,,
+400,LONSP,338,Long Lough,54.42,-5.87,25,GBR,United Kingdom,Thomas,1,Y,,
+402,LORAS84,340,Loras,45.66,5.24,410,FRA,France,Simon,1,Y,,
+403,LOUCKY,341,Loucky,49.33,15.5,560,CZE,Czech Republic,Walter/Basil,1,Y,0,210
+404,LUGAN,342,Luganskoe,43.73,40.69,2428,RUS,Russia,Thomas,2,Y,,
+405,LUNDIN,343,Lundin Tower,56.22,-2.97,28,GBR,United Kingdom,Thomas,1,Y,,
+406,LUTIN,344,Lutini_è_re,46.44,-0.86,4,FRA,France,Simon,1,Y,,
+407,LUXBEAUF,345,Beaufort Birkenbach,49.85,6.13,360,LUX,Luxembourg,Thomas,1,Y,,
+408,LUXBERDO,346,Berdorf Aesbaach,49.83,6.44,190,LUX,Luxembourg,Thomas,1,N,,
+409,LUXBREID,347,Breidfeld,50.12,6.06,440,LUX,Luxembourg,Thomas,1,Y,,
+420,MAANSEL,351,Maansel_è_nsuo,65.62,29.6,248,FIN,Finland,Thomas,2,Y,,
+421,MAARDUI,352,Lake Maardu,59.43,25,32,EST,Estonia,Thomas,2,Y,,
+422,MAARDUII,352,Lake Maardu,59.43,25,32,EST,Estonia,Thomas,1,N,,
+425,MAKSIMKI,355,Maksimkin Yar,58.33,88.17,150,RUS,Russia,Thomas,1,Y,,
+427,MALESH,357,Maleshevska Mountains Peat Bog,41.7,23.03,1720,BGR,Bulgaria,Basil,1,Y,,
+428,MALOE,358,Maloe,54.18,28.2,164,BLR,Belarus,,1,Y,,480
+429,MARCH,359,Hobbs Lot March,52.58,0.08,1,GBR,United Kingdom,Thomas,2,Y,,
+430,MAREE,360,Loch Maree,57.08,-5.48,60,GBR,United Kingdom,Thomas,2,Y,85,
+434,MARTIGAN,363,Lago di Martignano,42.12,12.33,249.15,ITA,Italy,Walter,2,Y,0,667
+435,MASEHJ,364,Masehjavri,69.05,20.98,685,FIN,Finland,Thomas,1,N,,
+436,MAT-1,365,Vitosha Mountains Peat Bog,42.83,23.83,2000,BGR,Bulgaria,Basil,1,Y,,
+437,MAYRA,366,Mayralampi,62.33,26.23,118,FIN,Finland,Thomas,1,N,,
+441,MEZHGOR,370,Mezhgornoe,66.37,30.7,190,RUS,Russia,Thomas,1,Y,,
+443,MINITUM,372,Minitumba,63.5,33.02,150,RUS,Russia,Thomas,1,N,,
+447,MLOUKY,376,Mokre louky (South),48.83,14.83,425,CZE,Czech Republic,Walter/Basil,2,Y,0,370
+449,MOERBEKE,378,Moerbeke,51.17,4.95,4,BEL,Belgium,Thomas,2,Y,,
+450,MOERZEKE,379,Moerzeke,51.05,4.18,1,BEL,Belgium,Thomas,1,Y,,
+453,MONT82,382,Lago Grande di Monticchio,40.94,15.6,1326,ITA,Italy,Walter,1,Y,0,750
+456,MORRONE,383,Morrone Birkwoods,57,-3.43,425,GBR,United Kingdom,Thomas,1,Y,,150
+457,MOSFELL,384,Mosfell,64.13,-20.61,80,ISL,Iceland,Thomas?,1,Y,,100
+459,MOSSEN,386,Mossen,60.12,21.6,17,FIN,Finland,Thomas,2,Y,,
+461,MOUTON2,388,Lac Mouton,44.06,7.44,2175,FRA,France,Simon,2,Y,,
+462,MUKKAV,389,Mukkavaara,68.92,21,535,FIN,Finland,Thomas,2,Y,,
+463,MULLSJ,390,Mullsj_è_n,58.28,14.23,133,SWE,Sweden,Thomas,2,Y,,
+464,MUSTUSUO,391,Mustusuo,61.81,33.5,101,RUS,Russia,Thomas,1,Y,,
+465,MUTORO1,392,Mutorog Peat Bog,43.52,23.62,1700,BGR,Bulgaria,Basil,1,Y,,
+466,NAKLO,393,Naklo,53.15,17.6,61,POL,Poland,Thomas,1,N,,
+467,NAROCH,394,Naroch,54.82,26.75,165,BLR,Belarus,,1,Y,,420
+468,NASLAT,395,Slieve Naslat,54.35,-5.98,300,GBR,United Kingdom,Thomas,2,Y,,
+469,NAVA1,396,Navarr_è_s,39.1,-0.68,225,ESP,Spain,Basil,1,Y,,
+470,NAVA2,396,Navarr_è_s,39.1,-0.68,225,ESP,Spain,Basil,1,Y,,
+471,NAVARRE3,396,Navarr_è_s,39.1,-0.68,225,ESP,Spain,Basil,1,Y,,
+474,NEMINO,399,Nemino,62.75,34.58,45,RUS,Russia,Thomas,2,Y,,200
+475,NENAZV,400,Nenazvannoe,61.81,33.48,100,RUS,Russia,Thomas,1,Y,,
+477,NERO274,401,Lake Nero,57.18,39.45,95,RUS,Russia,Thomas,1,Y,,2000
+478,NERO276,401,Lake Nero,57.18,39.45,95,RUS,Russia,Thomas,1,N,,
+479,NERO2P,401,Lake Nero,57.18,39.45,95,RUS,Russia,Thomas,2,Y,,
+480,NERO489,401,Lake Nero,57.18,39.45,95,RUS,Russia,Thomas,1,N,,
+481,NIE1BIS,402,Niechorze,54,15.05,5,POL,Poland,Thomas,1,Y,,
+482,NIGULA,403,Nigula,58,24.67,55,EST,Estonia,Thomas,1,N,,
+483,NMADBER,404,Nedre Madbergag_è_len,58.6,12.17,138,SWE,Sweden,Thomas,2,Y,,
+486,NOSUO,407,Nosuo,64.57,30.83,163,RUS,Russia,Thomas,1,Y,,
+488,NOVOLSK,409,Novolsky,56.77,26.18,168,BLR,Belarus,,2,Y,,
+490,NULSAVEI,411,Nulsaveito,67.53,70.17,57,RUS,Russia,Thomas,1,Y,,
+491,NUOCHAGA,412,Lake Nuochaga,61.3,129.55,260,RUS,Russia,Thomas,1,Y,,
+493,OLBRAM,414,Olbramovice,48.99,16.4,205,CZE,Czech Republic,Walter/Basil,2,Y,0,295
+494,OLTUSH,415,Oltush Lake,51.7,23.96,158,BLR,Belarus,,2,Y,,
+495,ONEGO6,416,Onego Lake,61.72,34.92,33,RUS,Russia,Thomas,1,Y,,450
+496,ONEGO8,416,Onego Lake,61.72,34.92,33,RUS,Russia,Thomas,1,Y,,330
+497,OSPITALE,417,Ospitale,44.16,10.78,1225,ITA,Italy,Walter,2,Y,120,777
+499,OSVEA,419,Osvea,56.05,28.08,132,BLR,Belarus,,1,Y,,
+500,OVAGOLU,420,Ova G_è_l_è_,36.27,29.3,20,TUR,Turkey,Basil,1,Y,,
+502,OVRAZHNO,422,Ovrazhnoe,56.25,85.17,110,RUS,Russia,Thomas,1,Y,,
+503,PADUGU,423,Pas du Gu,47.24,-2.15,3,FRA,France,Simon,1,Y,,
+504,PADULE,424,Lago Padule,44.3,10.21,1187,ITA,Italy,Walter,2,Y,311,1245
+505,PAIDRE,425,P_è_idre,58.27,25.63,506,EST,Estonia,Thomas,2,Y,,
+506,PAILL3,426,Puy de Pailleret,45.52,2.82,1590,FRA,France,Simon,1,Y,,
+510,PALASINY,428,Palasiny,49.69,15.48,520,CZE,Czech Republic,Walter/Basil,1,Y,,
+511,PAMERK,429,Pamerkiai Outcrop,54.31,24.74,1225,LTU,Lithuania,Thomas,1,N,,
+512,PECHT,430,Pecheniya,49.67,23.93,225,UKR,Ukraine,Thomas,1,N,,
+513,PELL79C2,431,Pell_è_autier,44.52,6.18,975,FRA,France,Simon,1,Y,,
+515,PESCH1,433,Peschanoe,51.98,25.48,139,BLR,Belarus,,2,N,,
+517,PESCHAN2,433,Peschanoe,51.98,25.48,139,BLR,Belarus,,2,N,,
+519,PETRILOV,436,Mire Petrolivo,56,31.98,175,RUS,Russia,Thomas,1,Y,,
+520,PETROP,437,Petropavlovka,58.33,82.5,100,RUS,Russia,Thomas,1,Y,,
+521,PEYRE04,438,Peyrelevade,45.71,2.38,780,FRA,France,Simon,1,Y,,
+523,PICKLET,440,Pickletillem,56.4,-2.9,21,GBR,United Kingdom,Thomas,2,Y,,
+524,PLACECOM,441,Place du Commerce,47.21,-1.56,7,FRA,France,Simon,1,Y,,
+527,POPOVO,444,Popovo Ezero,41.72,23.67,2185,BGR,Bulgaria,Basil,1,Y,,
+528,POPOVT,445,Popovschina,50.42,34,135,UKR,Ukraine,Thomas,1,Y,,
+530,POV2,447,Lake Varna (Beloslav-Poveljanovo),43.2,27.83,0,BGR,Bulgaria,Basil,1,Y,,
+532,PTICHJE,449,Ptichje,66.35,30.57,120,RUS,Russia,Thomas,1,Y,,
+533,PUNOZER,450,Punozerka,62.82,33.58,157,RUS,Russia,Thomas,1,Y,,830
+534,PUNSO,451,Punso,57.683333,27.25,183,EST,Estonia,Thomas,2,Y,,
+535,PUOLANKA,452,Vasikkasuo,64.67,27.87,270,FIN,Finland,Thomas,1,Y,,
+536,PUREK_N,453,Puscizna Rekowianska,49.48,19.82,656,POL,Poland,Thomas,2,Y,,
+537,QUARTZ,454,Quartzevoe,43.67,41.17,2726,RUS,Russia,Thomas,1,Y,,30
+539,QUINTA02,455,Quintanar de la Sierra,42.03,-3.02,1470,ESP,Spain,Basil,2,Y,,
+540,RAIGASTV,456,Raigastvere Lake,58.6,26.67,52,EST,Estonia,Thomas,1,Y,,
+541,RANTOT,457,Ran Viken,56.28,14.3,813,SWE,Sweden,Thomas,2,Y,,
+542,RASNA,458,Rasna,49.23,15.37,680,CZE,Czech Republic,Walter/Basil,2,Y,0,430
+543,RATTUV,459,Rattuvarri,69.35,20.32,100,NOR,Norway,Thomas,2,Y,,
+544,RATZ81,460,Saint Julien de Ratz,45.35,5.62,650,FRA,France,Simon,1,Y,,
+547,REDMERE,462,Redmere,52.43,0.43,0,GBR,United Kingdom,Thomas,1,Y,,
+548,REGET,463,Regetovka,49.43,21.28,515,SVK,Slovakia,Thomas,2,Y,,
+549,REZABIN,464,Rezabinec,49.25,14.12,369,CZE,Czech Republic,Walter/Basil,2,Y,0,165
+551,RIBNOE,466,Ribnoe,43.71,41.21,2115,RUS,Russia,Thomas,1,Y,,
+553,RL240,468,Rotsee,47.08,8.33,419,CHE,Switzerland,Walter,2,Y,,
+554,RL250,468,Rotsee,47.08,8.33,419,CHE,Switzerland,Walter,2,Y,0,780
+555,ROAG,469,Little Loch Roag,58.13,-6.88,27,GBR,United Kingdom,Thomas,2,Y,,
+556,ROQUETAS,470,Roquetas de Mar,36.79,-2.59,0,ESP,Spain,Basil,1,Y,,
+557,ROSLE_N,471,Rosle Nowe,52.13,18.92,110,POL,Poland,Thomas,1,N,,
+558,ROZ14A_N,472,Roztoki,49.72,21.58,230,POL,Poland,Thomas,2,Y,,
+559,ROZ1B_N,472,Roztoki,49.72,21.58,230,POL,Poland,Thomas,1,Y,,
+560,RUDU2,473,Rudushskoe Lake,56.5,27.55,150,LVA,Latvia,Thomas,1,Y,,
+561,RUGOZERO,474,Rugozero,64.08,32.63,140,RUS,Russia,Thomas,1,Y,,
+562,RUKATUN,475,Rukatunturi,66.17,29.15,462,FIN,Finland,Thomas,1,Y,,
+563,RYONANSU,476,Ry_è_n_è_nsuo,60.43,24.17,70,FIN,Finland,Thomas,1,Y,,
+566,S3PLESHV,479,Plesheevo Lake,56.75,38.5,148,RUS,Russia,Thomas,1,N,240,830
+567,S84,480,Lake Skrzetuszewskie,52.55,17.36,109,POL,Poland,Thomas,2,Y,,
+568,S87,480,Lake Skrzetuszewskie,52.55,17.36,109,POL,Poland,Thomas,2,Y,,
+569,SABBION1,481,Sabbion,44.13,7.47,2216,FRA,France,Simon,1,Y,,
+571,SAKSUNAR,483,Saksunarvatn,62.25,-7.18,23,FRO,Faroe Islands,,2,Y,,
+572,SALDROPO,484,Saldropo,43.05,-2.72,625,ESP,Spain,Basil,1,Y,,
+573,SAMBOTOT,485,Lake Samb_è_sj_è_n,57.13,12.42,35,SWE,Sweden,Thomas,2,Y,,
+574,SANRAFA,486,San Rafael,36.773611,-2.601389,0,ESP,Spain,Basil,1,Y,,
+575,SARKIKAN,487,S_è_rkikangas,65.92,29.2,265,FIN,Finland,Thomas,2,Y,,
+578,SERNA,489,Serni,43.67,40.48,2485,RUS,Russia,Thomas,1,Y,,
+579,SERRENT1,490,Serrent,47.81,-2.47,75,FRA,France,Simon,1,Y,,
+580,SERRENT2,490,Serrent,47.81,-2.47,75,FRA,France,Simon,1,Y,,
+582,SHABLA,492,Lake Shabla-Ezeretz,43.58,28.55,1,BGR,Bulgaria,Basil,1,Y,,
+583,SHEPET1,493,Shepeta Bog,55.78,25.17,110,LTU,Lithuania,Thomas,1,Y,,
+584,SHOMBA,494,Shombashuo,65.12,32.63,100,RUS,Russia,Thomas,1,Y,,
+586,SIBISTA,496,Sibista,43.23,41.43,2160,GEO,Georgia,Basil,1,Y,,
+589,SIIKASUO,499,Siikasuo,61.3,22.07,35,FIN,Finland,Thomas,2,Y,5,
+590,SIONASCA,500,Loch Sionascaig,58.06,-5.18,74,GBR,United Kingdom,Thomas,2,Y,,560
+591,SIPOLA,501,Sipola,65.05,24.79,7,FIN,Finland,Thomas,1,Y,,
+592,SIXTE79,502,Saint Sixte,45.43,5.63,650,FRA,France,Simon,1,Y,,200
+593,SIXTE85,502,Saint Sixte,45.43,5.63,650,FRA,France,Simon,2,Y,,
+594,SJSL972,503,Lac Saint L_è_ger,44.42,6.34,1308,FRA,France,Simon,1,Y,,
+596,SJSLS,503,Lac Saint L_è_ger,44.42,6.34,1308,FRA,France,Simon,2,Y,,
+597,SK-5-A,504,Hozelec,49.05,18.3,685,SVK,Slovakia,Thomas,2,Y,,
+600,SKVARRAN,506,Skvarran,57.2,16.15,86,SWE,Sweden,Thomas,2,Y,,920
+603,SLOP1_N,509,Slopiec,50.78,20.78,248,POL,Poland,Thomas,1,N,,
+604,SLOP2_N,509,Slopiec,50.78,20.78,248,POL,Poland,Thomas,2,Y,,
+605,SLUGGAN,510,Sluggan Moss,54.93,-6.3,52,IRL,Ireland,Thomas,2,Y,,
+606,SML,511,Moselotte,48.031944,7,1290,FRA,France,Simon,2,Y,,
+608,SNELLEG,513,Snellegem,51.19,3.28,12,BEL,Belgium,Thomas,2,Y,,
+609,SO4,514,Marais de la Perge,45.4,-1.01,2,FRA,France,Simon,1,Y,,
+610,SO6,515,Le Marais de la Perge (South),45.38,-1.12,2,FRA,France,Simon,1,Y,,
+611,SOGUT,516,S_è_g_è_t G_è_l_è_,37,29.9,1400,TUR,Turkey,Basil,1,Y,,335
+612,SOLNECH,517,Solnechnoe,65.83,34.33,10,RUS,Russia,Thomas,2,Y,50,
+613,SOLOKT,518,Solokiya,50.42,24.17,190,UKR,Ukraine,Thomas,2,Y,,
+614,SOLSOE81,519,Lake Solso,56.13,8.63,41,DNK,Denmark,Thomas,1,Y,,
+615,SOLSOE83,519,Lake Solso,56.13,8.63,41,DNK,Denmark,Thomas,1,Y,,
+616,SONBOU,520,Son Bou,39.92,4.03,12,ESP,Spain,Basil,1,Y,,
+617,SOSVIATS,521,Mire Sosvyatskoe,56.2,32,175,RUS,Russia,Thomas,1,Y,,
+618,SPAJALLS,522,Spj_è_llsj_è_n,56.69,14.59,146,SWE,Sweden,Thomas,2,Y,,
+619,SPEZET,523,Menez-Cam,48.25,-3.5,142.25,FRA,France,Simon,1,Y,,
+621,SPITS,525,Semmeldalen,76.67,15.33,25,NOR,Norway,Thomas,1,Y,,
+622,SRE4,526,Lake Srebarna,44.08,27.12,20,BGR,Bulgaria,Basil,1,Y,,
+625,STEKLIN,528,Steklin,52.93,18.98,73,POL,Poland,Thomas,2,Y,,
+628,STSAU,531,Saint Sauveur,43.57,3.92,1,FRA,France,Simon,1,Y,,
+629,STTHOMAS,532,Saint-Thomas,47.27,-1.75,1,FRA,France,Simon,1,Y,,
+630,STUPINO,533,Stupino,52.25,39.83,95,RUS,Russia,Thomas,2,Y,,
+631,STVIAUD,534,Saint Viaud Contin,47.27,-2.02,2,FRA,France,Simon,1,Y,,
+632,SUCHED93,535,Suchedniow,51.05,20.85,255,POL,Poland,Thomas,1,N,,
+633,SUDOB_2,536,Sudoble Lake,54.03,28.1,165,BLR,Belarus,,1,N,,
+634,SUDOBLE,536,Sudoble Lake,54.03,28.1,165,BLR,Belarus,,2,Y,,
+635,SUH2,537,Dry Lake II,42.05,23.53,1900,BGR,Bulgaria,Basil,1,Y,,
+636,SUOVAL,538,Suovalampi,69.58,28.83,104,FIN,Finland,Thomas,2,Y,,
+637,SVATOBOR,539,Svatoborice-Mistrin,48.833333,17.166667,175,CZE,Czech Republic,Walter,2,Y,,
+638,SVENC,540,Svencele Bog,55.5,21.29,7,LTU,Lithuania,Thomas,2,Y,,
+639,SVITJAS,541,Svitjaz,53.43,25.92,242,BLR,Belarus,,2,Y,,
+640,SYRJALAN,542,Syrj_è_l_è_nsuo,61.22,28.12,83,FIN,Finland,Thomas,2,Y,,
+641,SZYM_N,543,Szymbark,49.63,21.1,465,POL,Poland,Thomas,2,Y,,
+643,TAR1_N,545,Tarnawa Wyzna,49.1,22.83,670,POL,Poland,Thomas,1,Y,,650
+644,TAR2_N,545,Tarnawa Wyzna,49.1,22.83,670,POL,Poland,Thomas,1,Y,,
+646,TARFFPG,546,Loch Tarff,57.15,-4.6,291,GBR,United Kingdom,Thomas,1,Y,,
+647,TARW_N,547,Tarnowiec,49.7,21.62,220,POL,Poland,Thomas,2,Y,,220
+650,TENAGI1,550,Tenaghi Philippon,40.98,24.78,10,GRC,Greece,Basil,1,Y,,
+651,TG8,551,Delta del Rio Besos,41.38,2.25,0,ESP,Spain,Basil,1,Y,,
+652,THORPE,552,Thorpe Bulmer,54.72,-1.3,100,GBR,United Kingdom,Thomas,1,Y,,
+653,TM1,553,Tschokljovo Marsh,42.37,22.83,870,BGR,Bulgaria,Basil,1,Y,,
+654,TO-25,554,Lake Balaton (Southwest),46.82,17.74,104,HUN,Hungary,Walter/Basil,1,Y,,
+655,TO-30,555,Lake Balaton (Centre),46.74,17.4,104,HUN,Hungary,Walter/Basil,1,N,,
+656,TO-9,556,Lake Balaton (Northeast),47,18.1,104,HUN,Hungary,Walter/Basil,1,Y,,
+657,TOMTABAC,557,_è_kerhultag_è_l [Tomtabaken],57.48,14.47,303,SWE,Sweden,Thomas,2,Y,,
+658,TONDII,558,Tondi,59.47,24.92,40,EST,Estonia,Thomas,1,Y,,
+659,TOPPELA,559,Toppeladug_è_rd,55.6,13.37,35,SWE,Sweden,Thomas,1,Y,,
+660,TORNOS01,560,Puerto de Los Tornos,43.15,-3.43,920,ESP,Spain,Basil,1,Y,,
+662,TROLLVAT,562,Trollvatnet,69.88,23.47,188,NOR,Norway,Thomas,2,Y,,
+663,TRUMER,563,Trumer Moos,47.93,13.07,500,AUT,Austria,Walter,2,Y,0,620
+664,TRUMMTOT,564,Lake Trummen,56.87,14.83,161,SWE,Sweden,Thomas,2,Y,,
+665,TUIU,565,Mire Johvika,58.5,22.33,32,EST,Estonia,Thomas,1,Y,,
+666,TULLERIN,566,Tullerinsuo,61.33,21.95,29,FIN,Finland,Thomas,1,Y,,
+668,TYTUV,568,Tytuvenu Tyrelis,55.58,23.3,125,LTU,Lithuania,Thomas,2,Y,,
+669,UBERLING,569,Grosses _è_berling Schattseit-Moor,47.17,13.9,1750,AUT,Austria,Walter,2,N,0,840
+670,UITBERG,570,Uitbergen,51.02,3.94,4,BEL,Belgium,Thomas,1,Y,,
+672,URMIA20,571,Lake Urmia,37.58,45.47,1300,IRN,Iran Islamic Republic of,,1,Y,,
+673,USTMASH,572,Ust'Mashevskoe,56.32,57.88,220,RUS,Russia,Thomas,2,Y,,
+675,VALPROV2,133,Vallon de Provence,44.39,6.4,2075,FRA,France,Simon,1,Y,,
+677,VAN,575,Lake Van,38.5,43,1645,TUR,Turkey,Basil,2,Y,,
+678,VASIKKAS,452,Vasikkasuo,64.67,27.87,270,FIN,Finland,Thomas,1,Y,,
+680,VEGORIT,577,Vegoritis 8,40.75,21.75,570,GRC,Greece,Basil,2,Y,,
+684,VERNER,579,Vernerovice,50.1,16.25,450,CZE,Czech Republic,Walter/Basil,2,Y,0,173
+685,VINGOL,580,Ving_è_len,57.13,15.95,104,SWE,Sweden,Thomas,2,Y,,
+686,VISHN,581,Vishnevskoe Lake,60.5,29.52,15,RUS,Russia,Thomas,1,Y,,
+690,VOHMA,585,V_è_hma Mire,59.05,27.33,46,EST,Estonia,Thomas,2,Y,,
+691,VOISE,586,Vall_è_e de la Voise,48.42,1.75,148.7,FRA,France,Simon,1,Y,,
+696,WELNEY,591,Welney Washes,52.52,0.25,2,GBR,United Kingdom,Thomas,2,Y,,
+697,WEST,592,Mire Pelisoo,58.47,22.38,33,EST,Estonia,Thomas,2,Y,,
+698,WIGGENHA,593,Wiggenhall St. Germans,52.68,0.33,1,GBR,United Kingdom,Thomas,1,Y,,
+699,WILLINGH,594,Willingham Mere,52.33,-0.05,2,GBR,United Kingdom,Thomas,1,Y,,
+701,XK120,596,Black Sea (South),42.07,28.49,-94,BGR,Bulgaria,Basil,1,Y,,
+702,XK-55,597,Black Sea (Southwest 2),42.07,28.89,0,BGR,Bulgaria,Basil,1,Y,,
+705,YLIMYSNE,600,Ylimysneva,62.13,22.87,172,FIN,Finland,Thomas,1,Y,,
+706,ZABOIN94,601,Zaboinoe Lake,55.53,62.37,275,RUS,Russia,Thomas,1,Y,,
+707,ZALT,602,Zalozhtsy,49.75,25.45,320,UKR,Ukraine,Thomas,2,Y,,
+708,ZAPOVED,603,Zapovednoe,65.12,32.63,110,RUS,Russia,Thomas,1,Y,,580
+709,ZARUCKOE,604,Zaruckoe,63.9,36.25,20,RUS,Russia,Thomas,2,Y,,
+711,ZBUDOV1,606,Zbudovska blata,49.83,14.33,380,CZE,Czech Republic,Walter/Basil,2,Y,20,240
+712,ZBUDOV2,606,Zbudovska blata,49.83,14.33,380,CZE,Czech Republic,Walter/Basil,1,Y,0,200
+713,ZELLHOF,607,Wasenmoos beim Zellhof,47.98,13.1,505,AUT,Austria,Walter,1,Y,0,620
+714,ZERIBAR,608,Lake Zeribar,35.53,46.12,1293.13,IRN,Iran Islamic Republic of,,1,Y,,
+715,ZIRBEN,609,Zirbenwaldmoor,46.86,11.03,2150,AUT,Austria,Walter,2,Y,0,330
+717,ZS-9,610,Zsombo Swamp,46.36,19.99,92,HUN,Hungary,Walter/Basil,1,Y,120,
+718,ZURATKUL,611,Zuratkul',54.9,59.27,720,RUS,Russia,Thomas,2,Y,,
+720,JASLO,613,Jaslo,49.78,21.47,250,POL,Poland,Thomas,1,Y,240,350
+724,BOSHEI3,617,Bosscherheide,51.58,6.09,18,NLD,Netherlands,Thomas,1,Y,,
+725,CLEAT,618,Loch Cleat,57.07,-6.33,38,GBR,United Kingdom,Thomas,2,Y,,
+726,GEORGENF,619,Georgenfelder Hochmoor,50.75,13.75,860,DEU,Germany,Thomas,2,Y,,
+727,HOPSEIDT,620,Lake Hopseidet,70.83,27.72,225,NOR,Norway,Thomas,2,Y,,
+728,IFJORD,621,Lake Ifjord,70.43,27.63,317,NOR,Norway,Thomas,2,Y,,
+729,KRUMPA,622,Krumpa,51.3,11.85,109.75,DEU,Germany,Thomas,2,Y,,
+730,LAKERACZ,623,Lake Racze,53.92,14.67,-9,POL,Poland,Thomas,2,Y,,1020
+731,MARIAH,624,Mariahout,51.52,5.55,14,NLD,Netherlands,Thomas,1,Y,,
+732,MEKELMR,625,Mekelermeer,52.77,6.62,15,NLD,Netherlands,Thomas,2,N,,
+733,MEODAL,626,Loch Meodal,57.13,-5.87,105,GBR,United Kingdom,Thomas,1,Y,,
+734,MFM6T,627,Meerfelder Maar,50.1,6.75,336,DEU,Germany,Thomas,1,Y,,
+735,MIK2_N,628,Lake Mikolajki,53.77,21.42,116,POL,Poland,Thomas,2,Y,,
+736,NOTSEL,629,Notsel,51.55,4.77,5,NLD,Netherlands,Thomas,1,Y,130,
+737,OUVEIL2,630,Etang d'Ouveillan,43.27,3,6,FRA,France,Simon,1,Y,,
+738,PLAINEP,631,Plaine Alpe,44.96,6.59,1850,FRA,France,Simon,1,Y,,
+739,PREROND,632,Pr_è_ Rond,44.92,6.59,1800,FRA,France,Simon,1,Y,,
+740,PUSZDARZ,633,Darzlubie Forest,54.7,18.17,40,POL,Poland,Thomas,2,Y,,
+741,SCHWEMA3,634,Schwemm,47.65,12.3,664,AUT,Austria,Walter,1,N,,
+742,SCHWEMB1,634,Schwemm,47.65,12.3,664,AUT,Austria,Walter,2,Y,0,1420
+743,SCHWEMB5,634,Schwemm,47.65,12.3,664,AUT,Austria,Walter,2,Y,0,830
+744,SCHWEMF4,634,Schwemm,47.65,12.3,664,AUT,Austria,Walter,1,N,,
+745,SKAIDJVR,635,Lake Skaidejavri,70,27.87,183,FIN,Finland,Thomas,2,Y,,
+746,THZM4AB,636,Holzmaar,50.12,8.88,425,DEU,Germany,Thomas,1,Y,,
+747,TSUOLJVR,637,Lake Tsuolbmajavri,68.69,22.08,526,FIN,Finland,Thomas,2,Y,,
+748,UDDELMR,638,Uddelermeer,52.24,5.76,26,NLD,Netherlands,Thomas,2,N,,
+749,WA3ROH,639,Wachel 3,53.44,8.87,17,DEU,Germany,Thomas,2,Y,,
+750,WOLIN2,640,Wolin II,53.83,14.67,5,POL,Poland,Thomas,2,Y,,
+751,WOR80_N,641,Woryty,53.75,20.2,105,POL,Poland,Thomas,1,N,,
+752,WOR82_N,641,Woryty,53.75,20.2,105,POL,Poland,Thomas,2,Y,,
+753,ZPEAT76,642,Zarnowiec Peat Bog,54.72,18.12,5,POL,Poland,Thomas,2,Y,,
+756,ADRAN,643,Adran,59.07,18.02,40,SWE,Sweden,Thomas,-99,N,,
+763,BEILLARD,649,Le Beillard,48.07,6.8,605,FRA,France,Simon,1,N,,
+764,BELIER,650,Lac du Mont de Belier,45.34,2.64,860,FRA,France,Simon,1,N,,
+765,BISCAYE1,651,Biscaye,43.03,-0.08,409,FRA,France,Simon,2,N,,
+766,BOBERT,652,Moskovskiy Bobrik,50.55,34.5,135,UKR,Ukraine,Thomas,1,Y,,
+767,BOBROV,653,Bobrov,49.45,19.57,620,SVK,Slovakia,Thomas,2,Y,,
+768,BOGBOLT,654,Bolotnya,50.33,23.95,190,UKR,Ukraine,Thomas,1,Y,,
+774,CETULAT,659,Tsetula,50,24,235,UKR,Ukraine,Thomas,1,Y,,
+777,COOLT,662,Kulichkovskoye,50.33,24.12,190,UKR,Ukraine,Thomas,1,Y,,
+778,CREICHCA,663,Creich Castle,56.38,-3.08,400,GBR,United Kingdom,Thomas,1,N,,
+779,CRENO,664,Lac de Creno,42.2,8.95,1310,FRA,France,Simon,2,N,,
+785,DED,669,Velky Ded,50.08,17.22,1380,CZE,Czech Republic,Walter/Basil,2,Y,0,70
+786,DOLINA,670,Zlatnicka Dolina,49.52,19.28,850,SVK,Slovakia,Thomas,2,Y,,
+787,DONVOLD,671,Donvold,68.13,13.58,10,NOR,Norway,Thomas,2,Y,,
+788,DRASSANE,672,Drassanes,41.38,2.18,6,ESP,Spain,Basil,1,N,,
+792,ENFERS,675,Les Enfers,47.25,7.17,960,FRA,France,Simon,1,N,,
+797,FRASNE1,679,Frasne,46.83,6.16,840,FRA,France,Simon,1,N,,
+799,FREYCH2,680,Freychin_è_de,42.47,1.44,1350,FRA,France,Simon,2,N,,
+800,GARASEL,681,Garaselet (Byske_è_lven),65.33,19.93,293,SWE,Sweden,Thomas,1,N,,
+802,GUTT,683,Nowy Gutiski,50.27,26.83,210,UKR,Ukraine,Thomas,2,Y,,
+810,IOSIPOVO,689,Iosipovo,51.2,28,8,UKR,Ukraine,Thomas,1,Y,,
+813,JOLAN2,691,Le Jolan,45.14,2.86,1120,FRA,France,Simon,2,N,,
+814,KHOMIN,692,Khomin Mokh,51.2,28,8,UKR,Ukraine,Thomas,2,Y,,
+815,KOLCZEWO,693,Kolczewo,53.92,14.67,15,POL,Poland,Thomas,2,Y,,
+816,KOLMILOU,694,Kolmiloukkonen,66.23,28.48,344,FIN,Finland,Thomas,1,Y,,
+817,KROSSHOL,695,Krossholsmyri,66.1,-17.91,25,ISL,Iceland,Thomas,-99,N,,
+820,LAGOA_CO,698,Lagoa Comprida 2,40.36,-7.64,1650,PRT,Portugal,Basil,1,Y,,
+822,LANDOS1,699,Landos,44.85,3.83,1070,FRA,France,Simon,1,N,,
+825,LESTIVAL,702,L'Estivalet,44.86,3.39,1120,FRA,France,Simon,1,N,,
+827,LESUC2,703,Le Suc,44.72,3.1,1210,FRA,France,Simon,1,Y,,
+828,LEVEANIE,704,Leve_è_niemi,67.63,21.02,365,SWE,Sweden,Thomas,2,N,,
+829,LISI,705,Lisi,41.78,44.68,622,GEO,Georgia,Basil,1,Y,,
+830,LKBT,706,Bolotnoye,51.05,24.8,184,UKR,Ukraine,Thomas,2,Y,,
+831,LOD,707,Lac de Lod,45.8,7.84,1460,ITA,Italy,Walter,1,Y,250,620
+833,LOPT,709,Lopatin,50.22,24.83,200,UKR,Ukraine,Thomas,2,Y,,
+834,LOURDE1,710,Lourdes,43.033333,-0.075,430,FRA,France,Simon,1,N,,
+835,MAJ,711,Velky Maj,50.05,17.22,1365,CZE,Czech Republic,Walter/Basil,2,Y,0,63
+836,MAKT,712,Makovich,50.97,24.22,192,UKR,Ukraine,Thomas,1,Y,,
+837,MIROSHY,713,Miroshy,51.2,28,8,UKR,Ukraine,Thomas,2,Y,,
+838,MONGE1,714,Le Monge,43.05,-0.02,394,FRA,France,Simon,2,N,,
+840,MOOSALM,716,Moossalmmoor,47.75,13.52,740,AUT,Austria,Walter,2,Y,0,480
+841,MOSH1,717,Moshkarnoe,62.25,34.05,58,RUS,Russia,Thomas,2,N,,
+843,MOURA1,719,Le Moura,43.45,-1.55,43,FRA,France,Simon,1,N,,
+845,NASSET,720,Tourbière des Nassettes,44.466667,3.641667,1375,FRA,France,Simon,1,N,,
+847,ODENSEE,722,_è_denseemoor,47.62,13.63,770,AUT,Austria,Walter,2,Y,0,675
+848,OSOEVT,723,Osoyevka,50.9,35.22,160,UKR,Ukraine,Thomas,1,Y,,
+855,PODT,728,Maly Podleski,49.92,24.02,200,UKR,Ukraine,Thomas,1,Y,,
+856,POLT,729,Polonichka,50.27,24.75,200,UKR,Ukraine,Thomas,1,Y,,
+859,RODSCH,731,R_è_dschitzmoor,47.55,13.9,790,AUT,Austria,Walter,1,N,,
+861,SALECCE,732,Saleccia,42.722778,9.204167,15,FRA,France,Simon,1,N,,
+866,ST-1T,736,Stoyanov 1,50.38,24.63,198,UKR,Ukraine,Thomas,1,N,,
+867,SVAT,737,Svyatoye 2,51.1,24.33,183,UKR,Ukraine,Thomas,1,Y,,
+869,SWIENSKU,739,Swienskuhle DAH III,53.67,8.73,5,DEU,Germany,Thomas,2,Y,,
+870,TAPH3,740,La Taphanel,45.27,2.68,975,FRA,France,Simon,2,Y,,
+871,TAPH4,740,La Taphanel,45.274444,2.679167,975,FRA,France,Simon,1,N,,
+878,TUROVA,746,Turova Dacha,48.9,24.1,8,UKR,Ukraine,Thomas,2,Y,,
+881,VEAUX,749,Tourbi_è_re les Veaux,47.24,7.09,1020,CHE,Switzerland,Walter,1,N,,
+884,WINLESS,752,Loch of Winless,58.47,-3.2,9,GBR,United Kingdom,Thomas,2,N,,
+885,ZURAWIEC,753,Zurawiec,54.42,16.5,33,POL,Poland,Thomas,1,Y,,
+886,ZVENIT,754,Zvenigorod-Kotsurovskoye,49.8,24.23,200,UKR,Ukraine,Thomas,1,Y,,
+887,ASHIK,755,Loch Ashik,57.25,-5.83,30,GBR,United Kingdom,Thomas,2,Y,,
+888,CHANGE,756,Change-Glatinier,48.12,-0.79,88.91,FRA,France,Simon,2,Y,,
+889,FANGO08,757,Le Fango,42.42,8.66,10,FRA,France,Simon,1,N,,
+890,GORNO61,758,Gorno,50.85,20.83,240,POL,Poland,Thomas,1,Y,,
+891,ALCUDIA,759,Albufera Alcudia,39.79,3.12,0,ESP,Spain,Basil,1,Y,,
+892,N-CAS,760,Hoya del Castillo,41.25,-0.5,260,ESP,Spain,Basil,2,Y,,
+893,N-GUA,761,Laguna Guallar,41.4,-0.22,336,ESP,Spain,Basil,1,Y,,
+894,CANDIEIR,762,Charco da Candieira,40.341667,-7.576389,1409,PRT,Portugal,Basil,1,Y,-15,
+895,SANDVIK,763,Sandvikvatn,59.28,5.5,128,NOR,Norway,Thomas,2,Y,,
+896,TRIKHON5,764,Trikhonis 5,38.6,21.5,20,GRC,Greece,Basil,2,Y,110,
+898,JARVEOTS,765,Lake Jarveotsa,59.03,24.28,42,EST,Estonia,Thomas,1,Y,,820
+899,HOVIB,766,Hovi B,61.52,-6.75,12,FRO,Faroe Islands,,2,N,,
+900,KRAGMJNY,291,Krageholmssj_è_n,55.5,13.73,43,SWE,Sweden,Thomas,2,Y,,
+901,KVARNTRA,767,Lake Kvarntr_è_sk,60.35,19.98,14,FIN,Finland,Thomas,1,N,,
+902,BARBAROX,768,Po_è_o do Barbaroxa de Cima,38.07,-8.81,2,PRT,Portugal,Basil,1,N,,
+903,BEUF,769,La Beuffarde,46.82,6.42,1111,FRA,France,Simon,1,Y,,
+904,CARREGUE,770,Vale da Carregueira,38.09,-8.77,8,PRT,Portugal,Basil,1,N,,
+905,CHA2,771,Tourbi_è_re de Champlong,45.82,7.81,2320,ITA,Italy,Walter,1,Y,15,450
+906,CHEYLADE,772,Etang de Cheylade,45.09,2.9,1040,FRA,France,Simon,2,Y,,
+907,CRISTOL,773,Cristol Lake,45,6.63,2248,FRA,France,Simon,1,Y,,
+908,CROVAN03,774,Crovani,42.47,8.68,10,FRA,France,Simon,1,N,,
+909,CROVANI,774,Crovani,42.47,8.68,10,FRA,France,Simon,1,N,,
+910,ESTACADA,775,Lagoa de Albufeira,38.52,-9.14,2,PRT,Portugal,Basil,1,N,,
+911,FIGUEIRA,776,Figueira de Baixo,38.31,-8.74,3,PRT,Portugal,Basil,1,N,,
+912,GB4,777,Gallanech Beg,56.38,-5.5,70,GBR,United Kingdom,Thomas,2,Y,,
+913,GOLFO1,778,Lagoa do Golfo I,38.56,-9.14,70,PRT,Portugal,Basil,1,N,,
+914,GOLFO2,779,Lagoa do Golfo II,38.56,-9.14,70,PRT,Portugal,Basil,1,N,,
+915,LCASASW,780,Lagoa da Casa (Southwest),38.57,-9.14,70,PRT,Portugal,Basil,1,N,,11.5
+916,LGC,781,Lagaccione,42.57,11.85,355,ITA,Italy,Walter,2,Y,0,3000
+917,MOINHOS,782,Ribeira de Moinhos,37.98,-8.85,5,PRT,Portugal,Basil,1,N,,
+918,N-PEQ,783,Salada Peque_è_a,41.03,-0.22,357,ESP,Spain,Basil,1,Y,,
+919,N-SAL,784,Laguna Salada Chiprana,41.23,-0.17,150,ESP,Spain,Basil,1,Y,,
+920,PEUIL,785,Peuil Peat Bog,45.13,5.64,970,FRA,France,Simon,1,Y,,
+921,PILAZ,786,Tourbi_è_re de Pilaz,45.82,7.83,1460,ITA,Italy,Walter,2,Y,0,300
+922,PRGNP,787,Lago Pratignano,44.18,10.82,1307,ITA,Italy,Walter,2,Y,0,1490
+923,RILMAN,788,Lake Suho Ezero,42.13,23.42,1900,BGR,Bulgaria,Basil,1,Y,,
+924,RLGH3DAT,789,Round Loch of Glenhead,55.08,-4.42,300,GBR,United Kingdom,Thomas,1,Y,,230
+925,TEANGDAT,790,Teanga,57.32,-7.28,20,GBR,United Kingdom,Thomas,2,Y,,
+926,TRAVESS1,791,Lagoa Travessa I,38.3,-8.77,3,PRT,Portugal,Basil,1,N,,
+927,TRAVESS2,792,Lagoa Travessa II,38.3,-8.77,3,PRT,Portugal,Basil,1,N,,
+928,VACC3,793,Vaccar_è_s III,43.54,4.54,1,FRA,France,Simon,1,N,,
+929,VICO_V1,794,Lago di Vico,42.32,12.17,510,ITA,Italy,Walter,2,Y,0,1400
+930,VILLA,795,Lac de Villa,45.68,7.76,820,ITA,Italy,Walter,2,Y,0,690
+931,BANYOLES,796,Banyoles,42.13,2.75,173,ESP,Spain,Basil,1,Y,,
+932,LGM90D,382,Lago Grande di Monticchio,40.94,15.6,1326,ITA,Italy,Walter,1,Y,0,1200
+933,CORREO,797,Correo,44.51,5.98,1090,FRA,France,Simon,2,Y,,
+934,GIOUX,798,Gioux,45.274444,2.643056,943.659372,FRA,France,Simon,1,N,,
+935,GPILXX,799,La Grande Pile,47.733333,6.503889,330,FRA,France,Simon,1,N,,
+938,PANBRI,801,Pannel Bridge,50.9,0.68,3,GBR,United Kingdom,Thomas,1,Y,,
+939,BOSHEI1,617,Bosscherheide,51.58,6.09,18,NLD,Netherlands,Thomas,2,Y,,
+941,CLAIR,803,Loch Clair,57.56,-5.34,92,GBR,United Kingdom,Thomas,2,Y,,450
+942,DOMSJON,804,Domsj_è_n,58.3,12.45,129,SWE,Sweden,Thomas,2,Y,,
+944,DRUIM,806,Lochan an Druim,58.47,-4.7,25,GBR,United Kingdom,Thomas,2,Y,,
+945,DURANK1,807,Lake Duranunlak,43.67,28.55,4,BGR,Bulgaria,Basil,1,Y,,580
+946,DURANK2,807,Lake Duranunlak,43.67,28.55,4,BGR,Bulgaria,Basil,1,Y,,
+947,E26,808,Black Sea (West),42.83,29.92,0,BGR,Bulgaria,Basil,1,Y,,
+948,EINICH,809,Loch Einich,57.08,-3.8,502,GBR,United Kingdom,Thomas,1,Y,,200
+949,HOYRAN,810,Hoyran G_è_l_è_,38.28,30.88,920,TUR,Turkey,Basil,1,Y,,
+950,JC-5-A,258,Borkovicka blata,49.22,14.9,415,CZE,Czech Republic,Walter/Basil,2,Y,0,650
+951,KOPAIS,811,Kopais,38.48,23.07,10,GRC,Greece,Basil,1,Y,,
+952,LADIK,812,Ladik G_è_l_è_,40.92,36.02,884.8,TUR,Turkey,Basil,1,Y,,
+953,LERNA,813,Lake Lerna,37.58,22.75,0,GRC,Greece,Basil,1,Y,,
+954,LLYN-JL,814,Llyn Gwernan,52.68,-4.87,165,GBR,United Kingdom,Thomas,1,Y,,
+955,LOGYLET,815,Logylet,56.3,14.98,61,SWE,Sweden,Thomas,1,Y,,
+956,MABO,816,Mabo Moss,58.02,16.07,117,SWE,Sweden,Thomas,2,Y,,550
+957,MIK1_N,628,Lake Mikolajki,53.77,21.42,116,POL,Poland,Thomas,2,Y,,
+958,MUCKROSS,817,Muckross,52.02,-9.52,30,IRL,Ireland,Thomas,1,N,,
+959,LUXRODEN,818,Rodenbourg Bretzboesh,49.69,6.27,285,LUX,Luxembourg,Thomas,1,Y,,
+960,NIZHNIVA,819,Nizhnevartovsk,62,76.67,57.65,RUS,Russia,Thomas,1,Y,,
+962,PADUL3,725,Padul,37,-3.07,785,ESP,Spain,Basil,1,N,,
+963,PIERFOL,821,Pierre Folle,47.02,-1.89,2,FRA,France,Simon,1,Y,,150
+964,PINARBAS,822,Pinarbasi,37.47,30.05,984.6,TUR,Turkey,Basil,1,Y,,
+965,R43-90,823,Rybachiy,69.63,32.37,60,RUS,Russia,Thomas,2,Y,,91
+966,RL300,468,Rotsee,47.08,8.33,419,CHE,Switzerland,Walter,2,Y,530,920
+967,SANNEN,824,S_è_nnen,56.32,15.38,62,SWE,Sweden,Thomas,2,N,,
+968,SAVI,825,Mire Saviku,58.4,27.23,30,EST,Estonia,Thomas,2,Y,,695
+969,SERTAL,826,Pico del Sertal,43.22,-4.44,940,ESP,Spain,Basil,1,Y,,
+970,STAVT,827,Stav,50.42,35.4,155,UKR,Ukraine,Thomas,1,Y,,
+971,STON2,828,Stoyanov 2,50.38,24.63,198,UKR,Ukraine,Thomas,2,Y,,
+972,STURSIN,829,Saint-Ursin,48.519444,-0.253333,236.299828,FRA,France,Simon,1,Y,,
+973,TSHM-2,830,Sredna Gora Mountains Peat Bog,42.83,24.83,1300,BGR,Bulgaria,Basil,1,Y,,
+974,VINDERH,831,Vinderhoute,51.08,3.62,4,BEL,Belgium,Thomas,1,Y,1200,
+975,VRACOV1,589,Vracov,48.98,17.2,192,CZE,Czech Republic,Walter/Basil,2,Y,0,270
+976,XINIAS,832,Lake Xinias,39.05,22.27,500,GRC,Greece,Basil,1,Y,,
+977,YENICAGA,833,Yeni_è_aga G_è_l_è_,40.78,32.03,1006.39,TUR,Turkey,Basil,1,Y,,
+978,SCHWEMD3,634,Schwemm,47.65,12.3,664,AUT,Austria,Walter,2,Y,0,850
+979,ABANT,834,Abant G_è_l_è_,40.6,31.28,1398.65,TUR,Turkey,Basil,1,Y,,
+980,AE3,51,Aegelsee,46.65,7.54,989,CHE,Switzerland,Walter,2,Y,0,856.5
+981,AKGOL,835,Akg_è_l Adabag,37.5,33.73,1006.05,TUR,Turkey,Basil,1,Y,,
+982,ANNA,836,Tourbi_è_re de Santa Anna,45.86,7.65,2304,ITA,Italy,Walter,1,Y,0,145
+983,BBURN3,837,Bigholm Burn,55.12,-3.07,160,GBR,United Kingdom,Thomas,1,N,,
+985,BOGROOS,839,The Bog [Roos],53.73,-0.07,5,GBR,United Kingdom,Thomas,1,Y,,
+986,OYKJA,38,Vestre Oykjamyrtorn,59.82,6,570,NOR,Norway,Thomas,2,Y,,810
+987,TRETTE,39,Trettetjorn,60.72,7,810,NOR,Norway,Thomas,2,Y,,
+988,BISOCA,840,Bisoca,45.53,26.67,900,ROU,Romania,Basil,1,Y,,
+989,LUCI,841,Luci,46.27,25.75,1079,ROU,Romania,Basil,1,N,,
+990,STIOL3,842,Poiana Stiol,47.58,24.82,1540,ROU,Romania,Basil,1,N,,
+991,FOULA6B,843,Foula,60.15,-2.1,170,GBR,United Kingdom,Thomas,2,Y,,
+992,LAX,844,Loch Laxford,58.37,-5,97.9,GBR,United Kingdom,Thomas,2,Y,,
+993,BISKUP4,845,Biskupinskie Lake,52.78,17.73,80,POL,Poland,Thomas,2,Y,,
+994,DRUZ2,846,Jezioro Druzno,54.12,19.47,-1,POL,Poland,Thomas,2,Y,,
+995,GLEBOCZ,847,Gleboczek Lake,52.65,17.63,95,POL,Poland,Thomas,2,Y,,
+996,GODZISZ,848,Godziszewskie Lake,54.09,18.55,71,POL,Poland,Thomas,2,Y,,
+997,BOZEJEW,849,Bozejewice,52.68,18.23,87,POL,Poland,Thomas,1,N,,
+998,MSUSZEK,850,Maly Suszek,53.73,17.77,115,POL,Poland,Thomas,2,Y,,
+999,RUDNICK,851,Rudnickie Male,53.43,18.75,23,POL,Poland,Thomas,2,Y,,
+1000,STRAZ,852,Strazym Lake,53.33,19.46,71,POL,Poland,Thomas,2,Y,,
+1001,FLAJE,853,Flaje Kiefern,50.7,13.53,760,CZE,Czech Republic,Walter/Basil,2,Y,0,340
+1002,SLAWSKO,854,Slawsko,52.67,18.25,80,POL,Poland,Thomas,1,Y,,
+1003,DRUZ1,846,Jezioro Druzno,54.12,19.47,-1,POL,Poland,Thomas,1,N,,
+1004,MUKRZ1,855,Mukrz,53.52,18.12,103,POL,Poland,Thomas,2,N,,
+1005,MUKRZ2,855,Mukrz,53.52,18.12,103,POL,Poland,Thomas,2,N,,
+1006,WOLB,856,Wolbrom,50.38,19.77,375,POL,Poland,Thomas,2,Y,,
+1007,DURY1,857,Dury,53.64,18.36,95,POL,Poland,Thomas,1,Y,,
+1008,SWIETO,858,Swietokrzyskie Lake,52.54,17.6,103,POL,Poland,Thomas,2,Y,,
+1009,SICIE,859,Sicienko,53.17,16,69,POL,Poland,Thomas,2,Y,,
+1010,ZAWA,860,Zawada,53.62,18.58,74,POL,Poland,Thomas,2,N,,
+1011,ZABIJAK,861,Zabijak,53.58,18.45,95.75,POL,Poland,Thomas,2,N,,
+1012,OSTROWIT,862,Ostrowite,53.79,17.6,121,POL,Poland,Thomas,2,Y,,
+1015,STFRONTA,865,Saint Front Lake,44.98,4.17,1234,FRA,France,Simon,1,N,,215
+1019,AC4HOLO,867,Lago dell'Accesa,42.99,10.88,157,ITA,Italy,Walter,2,Y,0,1249
+1020,AC4LATE,867,Lago dell'Accesa,42.99,10.88,157,ITA,Italy,Walter,2,Y,0,1249
+1021,JAMMERTA,868,Jammertal,48.1,9.73,578,DEU,Germany,Thomas,2,Y,,
+1022,HIPPER,869,Hipper Sick,53.2158,-1.542,335,GBR,United Kingdom,Thomas,1,Y,,
+1024,BREITNAU,871,Breitnau-Neuhof,47.93,8.07,986,DEU,Germany,Thomas,2,Y,,
+1025,GDU,872,Durchenbergried,47.78,8.98,432,DEU,Germany,Thomas,2,Y,,510
+1026,FEUENRIE,873,Feuenried,47.75,8.92,407,DEU,Germany,Thomas,2,Y,,
+1027,HOB,874,Hornstaad/Bodensee,47.7,9.02,385,DEU,Germany,Thomas,2,Y,,
+1028,STEERMOS,875,Steerenmoos,47.8,8.2,1000,DEU,Germany,Thomas,2,Y,,
+1029,WAGENBOD,876,Wangen/Bodensee,47.67,8.93,395,DEU,Germany,Thomas,2,Y,,
+1030,NUSS1,877,Nussbaumer Seen,47.62,8.83,434,CHE,Switzerland,Walter,1,N,,
+1031,NUSS4,877,Nussbaumer Seen,47.62,8.83,434,CHE,Switzerland,Walter,2,Y,0,850
+1032,NUSS8,877,Nussbaumer Seen,47.62,8.83,434,CHE,Switzerland,Walter,1,N,,
+1033,ABBO,878,Abborrtj_è_rnen,63.88,14.45,387,SWE,Sweden,Thomas,2,Y,,
+1034,HOLT,879,Holtj_è_rnen,60.65,14.92,232,SWE,Sweden,Thomas,2,Y,,
+1035,KLOT,880,Klotj_è_rnen,61.82,16.53,235,SWE,Sweden,Thomas,2,Y,,800
+1036,STYG,881,Styggtj_è_rnen,62.32,13.57,715,SWE,Sweden,Thomas,2,Y,,
+1037,TREPPEL,882,Grosser Treppelsee,52.15,14.45,52,DEU,Germany,Thomas,2,Y,,
+1038,RAC20,866,Lake Racou,42.55,2.01,2000,FRA,France,Simon,1,Y,,
+1039,FATE,883,Lago delle Fate,44.27,7.1,2130,ITA,Italy,Walter,2,Y,0,280
+1040,MONDOVI,884,Refugio Mondovi,44.18,7.73,1760,ITA,Italy,Walter,2,Y,0,420
+1041,ORGIALS,885,Laghi dell'Orgials,44.23,7.13,2240,ITA,Italy,Walter,1,Y,0,370
+1042,BIECAI,886,Torbiera del Biecai,44.2,7.7,1920,ITA,Italy,Walter,2,Y,0,260
+1043,KOZLI,887,Kozli,49.38,14.03,460,CZE,Czech Republic,Walter/Basil,1,Y,0,140
+1044,GORSFAWR,888,Gors Fawr Bog,51.93,-4.72,190,GBR,United Kingdom,Thomas,1,Y,,200
+1045,BH2,889,Lake Urmia II,37.79,45.38,1265,IRN,Iran Islamic Republic of,,1,Y,,
+1048,BEGBUNAR,890,Peat-bog Begbunar,42.15,22.55,1750,BGR,Bulgaria,Basil,2,Y,,
+1050,CUAII,891,Montes do Buio Cuadram_è_n,43.47,-7.53,700,ESP,Spain,Basil,1,Y,,
+1051,LUITEL,892,Col Luitel,45.09,5.85,1250,FRA,France,Simon,1,Y,,
+1052,TORBENOV,893,Novienky peat bog,52.24,54.75,197,RUS,Russia,Thomas,1,Y,,
+1054,COULVAIN,895,Coulvain,49.07,-0.72,145,FRA,France,Simon,1,Y,,
+1055,AELBI,896,_è_lbi Flue,46.36,7.58,1850,CHE,Switzerland,Walter,2,Y,0,33
+1056,ALETSW,897,Aletschwald,46.388611,8.02455,2017,CHE,Switzerland,Walter,2,Y,0,435
+1057,ALETSW1,897,Aletschwald,46.388611,8.02455,2017,CHE,Switzerland,Walter,1,N,,
+1058,ALETSW2,897,Aletschwald,46.388611,8.02455,2017,CHE,Switzerland,Walter,1,N,,
+1059,ALETSCHW,897,Aletschwald,46.388611,8.02455,2017,CHE,Switzerland,Walter,2,Y,1.5,32
+1060,AMBY80,58,Hi_è_res sur Amby,45.79,5.28,410,FRA,France,Simon,0,Y,,
+1061,BACHALP,898,Bachalpsee,46.669389,8.021456,2265,CHE,Switzerland,Walter,2,Y,1,1000
+1062,BALDEGG,899,Baldeggersee,47.17,8.28,463,CHE,Switzerland,Walter,1,Y,0,40
+1063,BASR,900,La Grande Basse,48.05,6.95,945,FRA,France,Simon,2,Y,,
+1064,BELALP1,901,Alp L_è_sga Belalp 1,46.23,7.59,2330,CHE,Switzerland,Walter,2,Y,0,162
+1065,BELALP2,902,Alp L_è_sga Belalp 2,46.23,7.58,2290,CHE,Switzerland,Walter,2,Y,0,145
+1066,BEVERA,903,Lago di B_è_vera,45.8514,8.893319,325,ITA,Italy,Walter,1,Y,0,21
+1067,BIBER,904,Bibersee,47.13,8.28,429,CHE,Switzerland,Walter,2,Y,0,650
+1068,BITSCH3,905,Bitsch-Naters,46.2,7.59,1030,CHE,Switzerland,Walter,2,Y,30,628
+1069,BODMEN1,906,Bodmen Alp Bel,46.21,7.58,1970,CHE,Switzerland,Walter,1,N,,
+1070,BODMEN2,906,Bodmen Alp Bel,46.21,7.58,1970,CHE,Switzerland,Walter,1,N,,
+1071,BODMEN3,906,Bodmen Alp Bel,46.21,7.58,1970,CHE,Switzerland,Walter,1,N,,
+1072,BRETAYE,907,Lac de Bretaye,46.326203,7.072456,1780,CHE,Switzerland,Walter,1,Y,1,30
+1073,BUNSCHLE,908,Untere Bunschleren Boltigen,46.36,7.25,1680,CHE,Switzerland,Walter,1,N,,
+1074,CINUSKEL,909,Cinuskel,46.38,10.01,1615,CHE,Switzerland,Walter,1,N,,
+1075,CLAP68,147,Clapeyret,44.15,7.24,2260,FRA,France,Simon,1,Y,,
+1076,DOSSAC1,910,Dossaccio Bormio,46.28,10.2,1730,ITA,Italy,Walter,1,N,,
+1077,DOSSAC2,910,Dossaccio Bormio,46.28,10.2,1730,ITA,Italy,Walter,1,N,,
+1078,DOSSAC3,910,Dossaccio Bormio,46.28,10.2,1730,ITA,Italy,Walter,1,N,,
+1079,DOSSACC,910,Dossaccio Bormio,46.28,10.2,1730,ITA,Italy,Walter,2,Y,0,920
+1080,EGGEN,911,Eggen ob Blatten,46.22,7.59,1645,CHE,Switzerland,Walter,2,Y,12,425
+1081,EGGEN2,911,Eggen ob Blatten,46.22,7.59,1645,CHE,Switzerland,Walter,1,N,,
+1082,EGGEN3,911,Eggen ob Blatten,46.22,7.59,1645,CHE,Switzerland,Walter,1,N,,
+1083,EGGEN56,911,Eggen ob Blatten,46.22,7.59,1645,CHE,Switzerland,Walter,1,N,,
+1084,GRUERE,912,Etang de la Gru_è_re,47.24,7.05,1005,CHE,Switzerland,Walter,2,Y,,
+1086,EGR2A,912,Etang de la Gru_è_re,47.24,7.05,1005,CHE,Switzerland,Walter,2,Y,,
+1087,FELDD2,913,Feld Alp Holzmatten,46.39,8,2130,CHE,Switzerland,Walter,1,Y,195,240
+1088,GAENSEMO,914,G_è_nsemoos Schwarzenburg,46.5,7.21,795,CHE,Switzerland,Walter,2,Y,0,600
+1089,GAMPERF,915,Gamperfin,47.1,9.23,1320,CHE,Switzerland,Walter,2,Y,0,490
+1090,GANNA,916,Lago di Ganna,45.896333,8.826222,452,ITA,Italy,Walter,2,Y,0,22
+1091,GERZEN,917,Gerzensee,46.829597,7.546106,603,CHE,Switzerland,Walter,1,Y,0,24
+1092,GONDO,918,Gondo Alpjen,46.12,8.06,1635,CHE,Switzerland,Walter,2,Y,0,470
+1093,GIORGIO,919,Monte San Giorgio,45.91,8.95,990,CHE,Switzerland,Walter,1,Y,0,30
+1094,GRAECH51,920,Gr_è_chen See,46.12,7.5,1710,CHE,Switzerland,Walter,1,N,,
+1095,GRAECHEN,920,Gr_è_chen See,46.12,7.5,1710,CHE,Switzerland,Walter,2,Y,0,1102
+1096,GREICH2,921,Greicheralp Riederalp,46.22,8.01,1910,CHE,Switzerland,Walter,2,Y,0,440
+1097,GRINDJI,922,Grindjisee,46.011397,7.791089,2334,CHE,Switzerland,Walter,1,Y,0,13
+1098,HAGELSEE,923,Hagelseeli,46.672914,8.035869,2339,CHE,Switzerland,Walter,1,Y,0,34.3
+1099,GRUNSEE,924,Gr_è_nsee Reschenscheideck,46.52,10.29,1836,ITA,Italy,Walter,2,Y,0,585
+1100,HANGSTLI,925,H_è_ngstli,46.47,7.5,1260,CHE,Switzerland,Walter,2,Y,0,460
+1101,HELLELEN,926,Mittlere Hellelen,46.17,7.5,1520,CHE,Switzerland,Walter,1,N,,
+1102,ZENEGGEN,926,Mittlere Hellelen,46.17,7.5,1520,CHE,Switzerland,Walter,2,Y,0,840
+1103,HILAIRE1,927,Saint Hilaire du Rosier,45.15,5.32,190,FRA,France,Simon,1,Y,,
+1104,HILAIRE2,927,Saint Hilaire du Rosier,45.15,5.32,190,FRA,France,Simon,1,Y,,
+1105,HINTERB,928,Hinterburgseeli,46.43,8.04,1510,CHE,Switzerland,Walter,2,Y,0,1523
+1106,ILFUORN,929,Il Fuorn,46.39,10.12,1805,CHE,Switzerland,Walter,1,N,,
+1107,STRALDZA,930,Straldzha mire,42.63,26.78,150,BGR,Bulgaria,Basil,2,Y,,
+1108,LACDAI,931,Lac d'A_è_,46.363744,7.004633,1891,CHE,Switzerland,Walter,1,Y,0,17
+1109,LAINAIR,932,Lai Nair Schuls-Tarasp,46.78,10.31,1546,CHE,Switzerland,Walter,2,Y,0,650
+1110,LEYSIN,933,Leysin Les L_è_chi_è_res,46.21,7.01,1255,CHE,Switzerland,Walter,2,Y,165,370
+1111,LINDEN,934,Linden,46.51,7.41,900,CHE,Switzerland,Walter,2,Y,0,1300
+1112,LL160A,332,Lobsigensee,47.03,7.3,514,CHE,Switzerland,Walter,1,N,,
+1113,LQ120,332,Lobsigensee,47.03,7.3,514,CHE,Switzerland,Walter,1,N,,
+1114,LQ150E,332,Lobsigensee,47.03,7.3,514,CHE,Switzerland,Walter,1,N,,
+1116,LQ170D,332,Lobsigensee,47.03,7.3,514,CHE,Switzerland,Walter,1,N,,
+1118,LQ80,332,Lobsigensee,47.03,7.3,514,CHE,Switzerland,Walter,1,N,,
+1120,JUFPLAN,935,Juf Plan,46.63,10.26,2225,CHE,Switzerland,Walter,2,Y,0,67
+1121,HOPSTOP,936,Hopschensee,46.252419,8.023475,2017,CHE,Switzerland,Walter,2,Y,0,54
+1122,HOPSCHEN,936,Hopschensee,46.252419,8.023475,2017,CHE,Switzerland,Walter,2,Y,0,600
+1123,HOPSCH1,936,Hopschensee,46.252419,8.023475,2017,CHE,Switzerland,Walter,1,N,,
+1124,CHUTTI4,937,Chutti Boltigen,46.38,7.23,925,CHE,Switzerland,Walter,1,N,,
+1125,CHUTTI3,937,Chutti Boltigen,46.38,7.23,925,CHE,Switzerland,Walter,1,N,,
+1126,CHUTTI,937,Chutti Boltigen,46.38,7.23,925,CHE,Switzerland,Walter,2,Y,488,650
+1127,LUISSEL,938,Etang de Luissel Bex,46.14,7.01,540,CHE,Switzerland,Walter,2,Y,65,472
+1128,MACUN,939,Macun Val Zeznina ob Zernez,46.42,10.05,2617,CHE,Switzerland,Walter,1,N,,
+1129,MONTCARR,940,Mont Carr_è_ H_è_r_è_mence,46.09,7.22,2290,CHE,Switzerland,Walter,2,Y,0,420
+1130,LOERM1,941,L_è_rmoos Bern,46.59,7.24,583,CHE,Switzerland,Walter,1,N,,
+1131,LOERM2,941,L_è_rmoos Bern,46.59,7.24,583,CHE,Switzerland,Walter,1,N,,
+1132,LOERMOOS,941,L_è_rmoos Bern,46.59,7.24,583,CHE,Switzerland,Walter,2,Y,292,366
+1133,MOTTA,942,Motta Naluns,46.81,10.27,2170,CHE,Switzerland,Walter,2,Y,0,300
+1134,DOVJOK,943,Dovjok Swamp,48.75,28.25,265.75,UKR,Ukraine,Thomas,2,Y,,480
+1135,KARDAS,944,Kardashinski Swamp,46.52,32.62,4,UKR,Ukraine,Thomas,2,Y,,
+1136,NILEDS2,945,Nile Delta S2,31.3,31.6,1,EGY,Egypt,Basil,1,Y,,
+1137,NILEDS6,946,Nile Delta S6,31.11,31.72,2,EGY,Egypt,Basil,1,Y,,
+1138,OBERAAR,947,Oberaar,46.33,8.15,2315,CHE,Switzerland,Walter,2,Y,0,80
+1140,OPPLIGEN,949,Oppligen,46.5,7.35,560,CHE,Switzerland,Walter,1,N,,
+1141,MOKHOVOE,950,Mokhovoye,53.77,64.25,178,KAZ,Kazakhstan,,1,Y,,
+1142,PILLON,951,Pillon Gsteig-Diablerets,46.21,7.12,1670,CHE,Switzerland,Walter,2,Y,0,400
+1143,RIFFEL,952,Riffelsee,45.98,7.76,2757,CHE,Switzerland,Walter,2,Y,0,18
+1144,RL305,468,Rotsee,47.08,8.33,419,CHE,Switzerland,Walter,2,Y,900,1060
+1145,RL170,468,Rotsee,47.08,8.33,419,CHE,Switzerland,Walter,1,N,,
+1146,ROBII33,953,Alpi di Robi_è_i Val Bavona,46.44,8.52,1892,CHE,Switzerland,Walter,2,Y,0,600
+1147,ROBII30,953,Alpi di Robi_è_i Val Bavona,46.44,8.52,1892,CHE,Switzerland,Walter,1,N,,
+1148,ROB316,953,Alpi di Robi_è_i Val Bavona,46.44,8.52,1892,CHE,Switzerland,Walter,1,N,,
+1149,PRRODET,954,Praz Rodet,46.57,6.17,1040,CHE,Switzerland,Walter,2,Y,0,472
+1150,PALLUNG,955,Pal_è_ Lunga ob Ramosch,46.85,10.38,1890,CHE,Switzerland,Walter,1,N,,
+1151,SEEBERG,956,Seebergsee,46.576875,7.443853,1831,CHE,Switzerland,Walter,1,Y,0,417
+1152,TREPALLE,957,Trepalle Livigno,46.52,10.18,2030,ITA,Italy,Walter,1,N,,
+1153,ROTMOOS,958,Rotmoos-Eriz,46.79,7.84,1190,CHE,Switzerland,Walter,1,Y,0,550
+1154,SAANENM,959,Saanenm_è_ser,46.52,7.31,1256,CHE,Switzerland,Walter,1,Y,34.5,128
+1155,SAEGIST,960,S_è_gistalsee,46.68,7.98,1935,CHE,Switzerland,Walter,2,Y,0,1347
+1156,SCHOENW,961,Sch_è_nwies,46.85,11.03,2260,AUT,Austria,Walter,2,Y,0,232.5
+1157,SCHOEPF,962,Sch_è_pfenwaldmoor,46.743461,7.847558,1450,CHE,Switzerland,Walter,2,Y,-2.5,93.5
+1158,SCHWAVS,963,Schwarzsee VS,45.99,7.71,2552,CHE,Switzerland,Walter,1,Y,0,14
+1159,SCHWAFR,964,Schwarzsee FR,46.67,7.28,1046,CHE,Switzerland,Walter,2,N,0,1280
+1160,SCHWARZS,965,Schwarzsee Reschenscheideck,46.87,10.48,1721,AUT,Austria,Walter,2,Y,0,530
+1161,SPITTEL,966,Simplon/Gampisch-Alter Spittel,46.23,8.01,1885,CHE,Switzerland,Walter,2,Y,0,430
+1163,SUEFT1,968,S_è_ftenenegg,46.73,7.4,1555,CHE,Switzerland,Walter,1,N,,
+1164,SUEFT2,968,S_è_ftenenegg,46.73,7.4,1555,CHE,Switzerland,Walter,1,N,,
+1165,SUEFTGRO,969,S_è_fternen-Gr_è_negg,46.73,7.4,1520,CHE,Switzerland,Walter,1,N,,
+1166,TROGMOOS,970,Trogenmoos,46.76,7.86,1470,CHE,Switzerland,Walter,2,Y,0,86
+1167,UMBRAIL,971,Umbrail,46.54,10.42,2490,CHE,Switzerland,Walter,2,Y,0,200
+1168,XIRES,972,Xir_è_s Montana,46.31,7.47,1445,CHE,Switzerland,Walter,2,Y,148,472
+1169,YCOR,973,Etang d'y Cor Montana,46.31,7.48,1500,CHE,Switzerland,Walter,2,Y,0,867
+1170,WALLB1,974,Wallbach Lenk,46.43,7.4,1885,CHE,Switzerland,Walter,2,Y,0,300
+1174,WACHS,975,Wachseldorn Untermoos,46.82,7.73,980,CHE,Switzerland,Walter,2,Y,0,182
+1175,WACHSOE,975,Wachseldorn Untermoos,46.82,7.73,980,CHE,Switzerland,Walter,2,Y,91,146
+1176,WUNT,975,Wachseldorn Untermoos,46.82,7.73,980,CHE,Switzerland,Walter,2,Y,0,500
+1177,PSM90III,976,Lej da San Murezzan,46.49,9.85,1768,CHE,Switzerland,Walter,2,N,0,650
+1178,WAXECK,977,Waxeckalm,47.02,11.5,1875,AUT,Austria,Walter,2,Y,0,249
+1179,DORTMUND,978,Dortmunder H_è_tte,47.1,11,1880,AUT,Austria,Walter,2,Y,0,199
+1180,MIEMING,979,Mieminger See,47.29,10.98,800,AUT,Austria,Walter,2,Y,0,720
+1181,NILEDS7,980,Nile Delta S7,31.13,31.87,1,EGY,Egypt,Basil,1,Y,,
+1182,NILEDS8,981,Nile Delta S8,31.22,32.03,0,EGY,Egypt,Basil,2,Y,,
+1183,KATZENL,982,Katzenloch,47.34,11.13,1220,AUT,Austria,Walter,2,Y,25,183
+1184,SEEFELD,983,Seefelder See,47.32,11.19,1200,AUT,Austria,Walter,2,Y,0,600
+1185,KIRCHB,984,Kirchbichl,47.51,12.09,512,AUT,Austria,Walter,2,Y,150,837
+1186,EGELSEE,985,Egelsee,47.61,12.17,549,AUT,Austria,Walter,2,Y,0,670
+1187,MIESBERG,986,Miesberg,47.65,12.27,670,AUT,Austria,Walter,2,Y,80,380
+1188,LUTZENB,987,Lutzenberg,47.46,12.36,815,AUT,Austria,Walter,2,Y,0,150
+1189,GIERING,988,Giering,47.47,12.36,820,AUT,Austria,Walter,2,Y,0,530
+1190,HASENM,989,Hasenmoos,47.47,12.38,770,AUT,Austria,Walter,1,Y,0,810
+1191,WASENM1,990,Wasenmoos,47.31,12.42,1205,AUT,Austria,Walter,1,N,,
+1192,WASENM2,990,Wasenmoos,47.31,12.42,1205,AUT,Austria,Walter,1,N,,
+1193,SOMMERS,991,Sommers_è_ss,46.76,11.68,870,ITA,Italy,Walter,2,Y,0,530
+1194,RINDERP,992,Rinderplatz,46.64,11.49,1780,ITA,Italy,Walter,2,Y,0,550
+1195,DURA,993,Dura-Moor,46.64,11.46,2080,ITA,Italy,Walter,2,Y,0,495
+1196,MALSCH,994,Malsch_è_tscher Hotter,46.67,11.46,2050,ITA,Italy,Walter,2,Y,0,250
+1197,SCHWARZ,995,Schwarzsee,46.67,11.43,2033,ITA,Italy,Walter,2,Y,0,400
+1198,F_SENN3,996,Franz Senn-H_è_tte,47.35,11.88,2115,AUT,Austria,Walter,2,Y,0,347
+1199,GRUENAUM,997,Gr_è_nau Moor,47.03,11.45,2190,AUT,Austria,Walter,1,N,,
+1200,BUNTESM,998,Buntes Moor,47.06,11.3,2285,AUT,Austria,Walter,2,Y,0,400
+1201,ALPENR,999,Moor Alpenrose,47.09,11.78,1880,AUT,Austria,Walter,1,Y,0,200
+1202,ROTM_OB,1000,Rotmoos Obergurgl,46.841661,11.025,2260,AUT,Austria,Walter,1,Y,2.5,267.5
+1203,ATEML,1001,Ateml_è_chermoos,46.94,11.02,1790,AUT,Austria,Walter,1,Y,765,845
+1204,PILLERM,1002,Pillermoos Untergurgl,46.9,11.04,1780,AUT,Austria,Walter,2,Y,390,425
+1205,WILDMOOS,1003,Wildmoos,46.95,11.02,1435,AUT,Austria,Walter,2,Y,110,800
+1206,KROTENW1,1004,Krotenweiher,47.08,11.41,1310,AUT,Austria,Walter,2,Y,620,730
+1207,LANSERM1,1005,Lanser Moor,47.24,11.42,840,AUT,Austria,Walter,2,Y,750,955
+1208,LANSERM2,1005,Lanser Moor,47.24,11.42,840,AUT,Austria,Walter,1,N,,
+1209,LANSERM3,1005,Lanser Moor,47.24,11.42,840,AUT,Austria,Walter,2,Y,782.5,939
+1210,LINDENM,1006,Lindenmoos,47.51,12.039,640,AUT,Austria,Walter,2,Y,20,690
+1211,ZOTENS1,1007,Zotensenk,47.42,11.87,560,AUT,Austria,Walter,2,Y,680,860
+1213,GERLOS,1008,Gerlos,47.24,12.14,1590,AUT,Austria,Walter,2,Y,5,440
+1214,DELORETT,1009,Moor am Rofenberg,46.83,10.83,2760,AUT,Austria,Walter,1,Y,5,130
+1215,VEAU,749,Tourbi_è_re les Veaux,47.24,7.09,1020,CHE,Switzerland,Walter,1,N,,
+1216,LOCLAT1A,1010,Le Loclat,47.02,7,432,CHE,Switzerland,Walter,2,Y,0,800
+1218,LOCLAT4,1010,Le Loclat,47.02,7,432,CHE,Switzerland,Walter,1,N,,
+1219,LOCLAT50,1010,Le Loclat,47.02,7,432,CHE,Switzerland,Walter,1,N,,
+1221,MURIF2,1011,Murifeld Bern,46.56,7.28,554,CHE,Switzerland,Walter,2,Y,160,550
+1222,MURIFGR,1011,Murifeld Bern,46.56,7.28,554,CHE,Switzerland,Walter,2,Y,-90,57
+1225,ORGE3,1012,Lac du Mont d'Orge Sion,46.14,7.2,640,CHE,Switzerland,Walter,1,Y,513,1500
+1226,ORGE4,1012,Lac du Mont d'Orge Sion,46.14,7.2,640,CHE,Switzerland,Walter,1,N,,
+1227,ORGE5,1012,Lac du Mont d'Orge Sion,46.14,7.2,640,CHE,Switzerland,Walter,2,Y,10,550
+1228,ROBSOIL,1013,Alpi di Robi_è_i Val Bavona Bodenprofil,46.44,8.52,1965,CHE,Switzerland,Walter,1,N,,
+1229,LAU1,1014,Lac du Lauzon,44.68,5.79,1980,FRA,France,Simon,1,Y,,
+1230,CZE1,1015,Marais de Charauze,45.37,5.57,375,FRA,France,Simon,1,Y,,
+1231,CHIRENS1,1016,Tourbi_è_re de Chirens,45.42,5.56,460,FRA,France,Simon,1,Y,,
+1232,GOSCI187,1017,Lake Gosciaz,52.58,19.35,64,POL,Poland,Thomas,1,Y,,
+1233,COUDERT,1018,Les Chaux de Coudert,45.27,1.95,500,FRA,France,Simon,1,Y,,
+1234,DAUGES,1019,Tourbi_è_re des Dauges,46.01,1.42,620,FRA,France,Simon,1,Y,,
+1235,ESPINASS,1020,Narse d'Espinasse,45.63,2.88,1160,FRA,France,Simon,2,Y,,
+1236,LONGEYR2,1021,Tourbi_è_re de Longeyroux,45.59,2.74,800,FRA,France,Simon,1,Y,,
+1237,ROUSSY,1022,Tourbi_è_re de Roussy,45.08,2.52,1030,FRA,France,Simon,1,Y,,
+1240,LONGEYR1,1021,Tourbi_è_re de Longeyroux,45.59,2.74,800,FRA,France,Simon,2,N,,
+1242,NEGARIOU,1026,Tourbi_è_re de N_è_garioux,45.72,2.48,780,FRA,France,Simon,1,N,,
+1246,CARC14,1030,Les Cars,45.61,2.38,850,FRA,France,Simon,1,N,,
+1256,MFM6,627,Meerfelder Maar,50.1,6.75,336,DEU,Germany,Thomas,1,N,,
+1257,PRELUCA,1038,Preluca Tiganului,47.82,23.54,730,ROU,Romania,Basil,1,Y,,
+1258,STEREGOI,1039,Steregoiu,47.81,23.54,790,ROU,Romania,Basil,2,Y,,
+1259,FUKK1,1040,Fuschlsee,47.78,13.27,663,AUT,Austria,Walter,2,Y,0,902
+1261,MIROIR,1042,Lac Miroir,44.64,6.79,2210,FRA,France,Simon,2,Y,,
+1262,PRAVER,1043,Lac de Praver,45.07,5.86,1170,FRA,France,Simon,2,Y,,
+1265,MONTSEC2,1045,Tourbi_è_re de Mont Sec,45.07,5.81,1130,FRA,France,Simon,1,Y,,
+1266,GATIMORT,1046,Tourbi_è_re de Gatimort,43.58,2.79,970,FRA,France,Simon,2,Y,,
+1267,LANDE,1047,Tourbi_è_re de la Lande,43.57,2.97,1040,FRA,France,Simon,2,Y,,
+1268,NARMORNW,1048,Tourbi_è_re des Narses Mortes,44.43,3.6,1400,FRA,France,Simon,2,Y,,
+1272,PEYROUTA,1049,Tourbi_è_re de la Peyroutari_è_,44.47,3.6,1050,FRA,France,Simon,1,Y,,
+1273,PESCHIO1,1050,Tourbi_è_re du Peschio,44.45,3.6,1370,FRA,France,Simon,2,Y,,
+1274,PESCHIOB,1050,Tourbi_è_re du Peschio,44.45,3.6,1370,FRA,France,Simon,1,Y,74,
+1275,WHN,1051,Waschhorn,53.62,8.74,10,DEU,Germany,Thomas,2,Y,,
+1276,BRM1,1052,Bruckmisse,48.73,8.64,670,DEU,Germany,Thomas,1,N,,
+1277,BRM3,1052,Bruckmisse,48.73,8.64,670,DEU,Germany,Thomas,1,N,,
+1278,BRM4,1052,Bruckmisse,48.73,8.64,670,DEU,Germany,Thomas,1,N,,
+1279,GWA1,1053,Glaswaldsee,48.43,8.25,839,DEU,Germany,Thomas,2,Y,,
+1280,KWI1,1054,Wildseemoor bei Kaltenbronn,48.72,8.46,909,DEU,Germany,Thomas,2,Y,,
+1281,KWI2,1054,Wildseemoor bei Kaltenbronn,48.72,8.46,909,DEU,Germany,Thomas,1,N,,
+1282,WILA,1055,Wilder See beim Ruhestein,48.57,8.24,910,DEU,Germany,Thomas,2,Y,,
+1283,AVG0702,,Lago Grande di Avigliana,45.07,7.39,353,ITA,Italy,Walter,2,Y,0,60
+1284,FULLY,1057,Lac  Superieur de Fully,46.18,7.09,2135,CHE,Switzerland,Walter,2,Y,0,241
+1285,LOSUNAR,1058,Le Loch Sunart,56.666667,-5.866667,0,GBR,United Kingdom,Thomas,1,N,,
+1286,FRANVILL,1059,Baie de Seine Franceville beach,49.3,-0.266667,5,FRA,France,Simon,1,Y,,
+1287,S2188,1060,Baie de Seine estuary,49.416667,-0.033333,0,FRA,France,Simon,1,Y,,
+1288,VK12,1060,Baie de Seine estuary,49.416667,-0.033333,0,FRA,France,Simon,2,Y,,
+1289,VK52,1060,Baie de Seine estuary,49.416667,-0.033333,0,FRA,France,Simon,1,Y,,
+1290,BOUCHB5,1061,Lac du Bouchet,44.916667,3.783333,1200,FRA,France,Simon,1,Y,,250
+1291,BOUCHB53,1061,Lac du Bouchet,44.916667,3.783333,1200,FRA,France,Simon,1,Y,,300
+1292,BOUCHB60,1061,Lac du Bouchet,44.916667,3.783333,1200,FRA,France,Simon,1,Y,,430
+1293,BOUCHD,1061,Lac du Bouchet,44.916667,3.783333,1200,FRA,France,Simon,1,Y,,1000
+1294,PRA1995,1062,Praclaux crater,44.816667,3.833333,1100,FRA,France,Simon,1,N,,
+1295,BOUCHI,1061,Lac du Bouchet,44.916667,3.783333,1200,FRA,France,Simon,1,N,,
+1297,BOUCHH,1061,Lac du Bouchet,44.916667,3.783333,1200,FRA,France,Simon,1,N,,
+1298,RIBAINS,1063,Ribains maar,44.916667,3.783333,1080,FRA,France,Simon,1,N,,
+1299,GRADEN1,1064,Gradenmoos,47.965278,12.808333,1920,AUT,Austria,Simon,1,Y,,
+1300,TAUERN3,1065,Tauernmoos,47.172222,12.644444,2100,AUT,Austria,Simon,1,Y,,
+1325,VAUVILC4,1076,Vauville,49.636111,-1.848889,10,FRA,France,Simon,1,Y,,
+1326,VAUVILLE,1076,Vauville,49.636111,-1.848889,10,FRA,France,Simon,1,Y,,
+1327,ANSTMA60,1077,Anse Saint-Martin,49.703889,-1.878611,5,FRA,France,Simon,1,Y,,
+1328,ANSTM203,1077,Anse Saint-Martin,49.703889,-1.878611,5,FRA,France,Simon,2,Y,,
+1330,ETPASM67,1078,Etang paysan,49.696111,-1.867222,41,FRA,France,Simon,1,Y,,
+1332,URVNAC1,1079,Urville-Nacqueville,49.678056,-1.7575,5,FRA,France,Simon,1,Y,,90
+1334,LINGR2C1,1080,Lingreville,48.929722,-1.543056,5,FRA,France,Simon,1,Y,,
+1335,LINGR2C2,1080,Lingreville,48.929722,-1.543056,5,FRA,France,Simon,1,Y,,
+1336,LINGR2CM,1080,Lingreville,48.929722,-1.543056,5,FRA,France,Simon,1,Y,,
+1337,BRICQRUE,1080,Lingreville,48.929722,-1.543056,5,FRA,France,Simon,1,Y,,
+1338,LINGR3CN,1080,Lingreville,48.929722,-1.543056,5,FRA,France,Simon,1,Y,,
+1340,LINGREV4,1080,Lingreville,48.929722,-1.543056,5,FRA,France,Simon,1,Y,,
+1341,LINGREV5,1080,Lingreville,48.929722,-1.543056,5,FRA,France,Simon,1,Y,,
+1342,LINGREV6,1080,Lingreville,48.929722,-1.543056,5,FRA,France,Simon,1,Y,,
+1344,LING1B17,1080,Lingreville,48.929722,-1.543056,5,FRA,France,Simon,1,Y,,
+1345,MASTCLAI,1081,Marais de Marchesieux,49.173333,-1.3,5,FRA,France,Simon,1,Y,,
+1346,TOCQUEB1,1082,Tocqueboeuf,49.688889,-1.416667,27,FRA,France,Simon,1,Y,,
+1347,TOCQUEB2,1082,Tocqueboeuf,49.688889,-1.416667,27,FRA,France,Simon,1,Y,,
+1348,TOCQUEST,1082,Tocqueboeuf,49.688889,-1.416667,27,FRA,France,Simon,1,Y,,
+1349,MATHON,1083,Tourbière de Mathon,49.218889,-1.5,20,FRA,France,Simon,1,Y,,
+1350,GEFONTE4,1084,Geffosse Fontenay,49.365,-1.083333,12,FRA,France,Simon,1,Y,,
+1351,STCOMONT,1085,Saint-C_me du Mont,49.335,-1.270833,25,FRA,France,Simon,1,Y,,
+1352,CHFPONES,1086,Chef-du-Pont,49.381944,-1.360556,2,FRA,France,Simon,2,Y,,1000
+1353,GATTEMAR,1087,Anse de Gattemare,49.692778,-1.298056,1,FRA,France,Simon,2,Y,,
+1354,CRABEC,1088,Havre de Crabec,49.683333,-1.275,2,FRA,France,Simon,1,Y,,
+1355,MONFHAYE,1089,Montfarville,49.645,-1.254167,3,FRA,France,Simon,1,Y,,
+1356,MONFLAND,1089,Montfarville,49.645,-1.254167,3,FRA,France,Simon,1,Y,,
+1357,MRELAMAR,1090,Anse de la Mare,49.625278,-1.230833,0,FRA,France,Simon,1,Y,,
+1358,BERVILLE,1091,Berville-sur-Seine,49.483333,0.9,4,FRA,France,Simon,1,N,,
+1361,BLAINVIL,1094,Blainville-sur-Orne,49.203056,-0.308889,5,FRA,France,Simon,2,Y,,1000
+1362,REPUB1,1095,Caen,49.184444,-0.36,11,FRA,France,Simon,1,Y,,
+1363,REPUBA,1095,Caen,49.184444,-0.36,11,FRA,France,Simon,1,N,,
+1364,REPUBB,1095,Caen,49.184444,-0.36,11,FRA,France,Simon,1,N,,
+1365,REPUBD,1095,Caen,49.184444,-0.36,11,FRA,France,Simon,1,Y,,
+1366,PONTEVEQ,1096,Pont-l'Eveque Le Lac,49.275,-0.199722,9,FRA,France,Simon,1,Y,,
+1367,MARDIVES,1097,Marais de la Dives,49.25,-0.15,3,FRA,France,Simon,1,Y,,1200
+1368,PETIVIC1,1098,Petiville,49.233333,-0.166667,2,FRA,France,Simon,2,Y,,
+1369,TROARNC0,1099,Troarn Saint-Samson,49.183611,-0.168056,2,FRA,France,Simon,1,Y,,
+1370,TROARNC2,1099,Troarn Saint-Samson,49.183611,-0.168056,2,FRA,France,Simon,2,Y,,
+1371,BELLENGR,1100,Bellengreville,49.116667,-0.215,20,FRA,France,Simon,2,Y,,
+1372,ANNERAY,1101,Anneray,49.159444,-0.059444,5,FRA,France,Simon,1,Y,,
+1376,CAIRON,1103,Cairon,49.238889,-0.449722,38,FRA,France,Simon,2,Y,,
+1377,FONTHENR,1104,Fontaine Henry,49.2775,-0.453333,20,FRA,France,Simon,2,Y,,
+1381,REVIERE1,1105,Reviers,49.301111,-0.466667,14,FRA,France,Simon,2,Y,,
+1388,CHANTEME,1112,Chantemerle,45.916667,0.016667,69,FRA,France,Simon,1,Y,,
+1389,MURSOLOG,1113,Tourbière de Mur de Sologne,47.411667,-1.608889,115,FRA,France,Simon,1,Y,,
+1390,TIGAL,1114,Tigalmamine,32.9,-5.35,1626,MOR,Morocco,Basil,2,Y,,
+1391,PUYDGOUT,1115,Puy des Gouttes,45.828611,2.955,1134,FRA,France,Simon,1,N,,
+1394,LASPARDI,1118,Las Pardillas Lake,42.045556,-3.045278,1870,ESP,Spain,Simon,2,Y,,
+1395,SEMENIC1,1119,Semenic,45.18,22.059444,1400,ROU,Romania,Simon,1,Y,,
+1396,CSOGLE,1120,Cs_gle,47.215833,17.255,134,HUN,Hungary,Simon,1,N,,
+1397,NAGYMOHO,1121,Nagy-Mohos,48.326944,20.436389,270,HUN,Hungary,Simon,2,Y,,
+1398,PAHOK,1122,Als_p_hok,46.774444,17.170278,126,HUN,Hungary,Simon,1,Y,,
+1399,POLOSKE,1123,P_l_ske,46.756111,16.924722,153,HUN,Hungary,Simon,1,N,,
+1400,POTRETE,1124,P_tr_te,46.678889,16.933056,141,HUN,Hungary,Simon,1,Y,,
+1401,SZIGLIGE,1125,Szigliget,46.8,17.433333,118,HUN,Hungary,Simon,1,Y,,
+1402,ZALAVAR,1126,Zalav_r,46.785278,17.155,188,HUN,Hungary,Simon,1,N,,
+1403,LOEDDIG,1127,L_ddigsee,53.433333,11.85,43,DEU,Germany,Thomas,2,Y,,
+1404,LANGEFEN,1128,Langes Fenn Kemnitzerheide,52.313611,12.913611,36,DEU,Germany,Simon,2,Y,,
+1405,VC2068,1129,Borkum Riffgrund,54.1,6.766667,-33,DEU,Germany,Simon,1,N,,
+1406,BRUCHBG1,1130,Bruchberg,51.758889,10.46,825,DEU,Germany,Thomas,2,Y,,
+1407,BRUCHBG2,1130,Bruchberg,51.758889,10.46,825,DEU,Germany,Thomas,2,Y,,
+1408,LUTTERS1,1131,L_ttersee,51.576667,10.161667,164,DEU,Germany,Thomas,2,Y,,
+1409,LUTTERS2,1131,L_ttersee,51.576667,10.161667,164,DEU,Germany,Thomas,2,Y,,545
+1410,AHLEQUEL,1132,Ahlequellmoor,51.730556,9.509444,300,DEU,Germany,Thomas,2,Y,,
+1411,LUDERHO1,1133,L_derholz,51.684722,10.305833,228,DEU,Germany,Thomas,1,Y,,
+1412,SILBERHO,1134,Silberhohl,51.91,10.1825,180,DEU,Germany,Thomas,2,Y,,
+1413,UCKERSEE,1135,Unter-_ckersee,53.25,13.85,10,DEU,Germany,Thomas,1,Y,,
+1414,FEL1,1136,Felchosee,53.05,14.133333,10,DEU,Germany,Thomas,2,Y,,
+1415,FEL2,1136,Felchosee,53.05,14.133333,10,DEU,Germany,Thomas,2,Y,480,690
+1416,GKSE,1137,Gro_er Krebssee,52.85,14.1,5,DEU,Germany,Thomas,1,N,,
+1417,GKREBSEE,1137,Gro_er Krebssee,52.85,14.1,5,DEU,Germany,Thomas,1,N,,
+1418,GKSA,1137,Gro_er Krebssee,52.85,14.1,5,DEU,Germany,Thomas,1,N,,
+1419,JH05,1138,Lake Hancza,54.266667,22.816667,229,POL,Poland,Thomas,2,Y,,
+1420,VOULKARI,1139,Lake Voulkaria,38.866667,20.833333,0,GRC,Greece,Thomas,2,Y,,
+1421,KMO2,1140,Kleinen Mochowsee,51.996389,14.198889,49,DEU,Germany,Thomas,2,Y,,
+1422,SONENBGM,1141,Sonnenberger Moor,51.768056,10.516111,780,DEU,Germany,Thomas,2,Y,,
+1423,BOKABLA1,1142,Bokanjacko,44.183333,15.233333,25,HRV,Croatia,Simon,2,Y,,
+1424,BOKABLA2,1142,Bokanjacko,44.183333,15.233333,25,HRV,Croatia,Simon,1,N,,
+1425,RAPERSH1,1143,Rappershausen,50.379167,10.391389,384,DEU,Germany,Thomas,1,Y,,
+1426,WEISSFOR,1144,Moor im Weissenstadter Forst,50.136667,11.880278,725,DEU,Germany,Thomas,1,Y,,
+1427,ROTTENBA,1145,Das Moor bei Rottenbach,50.394444,10.962778,465,DEU,Germany,Thomas,1,N,,
+1428,SCHWARMO,1146,Das Schwarze Moor in der Rh_n,50.511389,10.069722,781,DEU,Germany,Thomas,1,N,,
+1429,SEELOH92,1147,Die Seelohe,50.026111,11.858889,778,DEU,Germany,Thomas,2,Y,,
+1430,WOLOHE1,1148,Die Wolfslohe im Steinwald,49.9075,12.040278,718,DEU,Germany,Thomas,1,Y,,
+1431,WOLOHE2,1148,Die Wolfslohe im Steinwald,49.9075,12.040278,718,DEU,Germany,Thomas,1,N,,
+1432,SAUBORST,1149,Sauborst im Rehauer Forst,50.276111,12.099444,572,DEU,Germany,Thomas,1,Y,,
+1433,FICHBE57,1150,Das Moor bei Fichtelberg,49.9925,11.849722,625,DEU,Germany,Thomas,1,N,,
+1434,FICHBE92,1150,Das Moor bei Fichtelberg,49.9925,11.849722,625,DEU,Germany,Thomas,1,N,,
+1435,RADAUE56,1151,Radauer Born,51.801389,10.548056,800,DEU,Germany,Thomas,1,N,,
+1436,RADAUER1,1151,Radauer Born,51.801389,10.548056,800,DEU,Germany,Thomas,1,N,,
+1437,RADAUER2,1151,Radauer Born,51.801389,10.548056,800,DEU,Germany,Thomas,1,N,,
+1438,SEELOH57,1147,Die Seelohe,50.026111,11.858889,778,DEU,Germany,Thomas,1,N,,
+1439,ROTEMOR1,1152,Rotemoor,50.468333,9.984444,805,DEU,Germany,Thomas,1,N,,
+1440,BELIYA2C,1153,Beliya Kanton,41.733611,24.139722,1547,BGR,Bulgaria,Simon,2,Y,,
+1441,RD7B,1154,Lake Sedmo Rilsko,42.210833,23.326944,2095,BGR,Bulgaria,Simon,1,Y,,480
+1442,BONNII1,1155,Bonnier,43.564444,3.905556,2,FRA,France,Simon,1,N,,
+1443,MEJEANI1,1156,M_jean,43.557222,3.910556,1,FRA,France,Simon,1,N,,
+1444,MEJEANII,1156,M_jean,43.557222,3.910556,1,FRA,France,Simon,1,N,,
+1445,STADEIII,1157,Le Stade,43.567222,3.907778,4,FRA,France,Simon,1,N,,
+1446,SERRE,1158,Tourbière du massif de la Serre,47.176111,5.547222,346,FRA,France,Simon,1,N,,
+1447,ORESTG25,1159,Lake Oresti_s,40.511667,21.257778,630,GRC,Greece,Simon,2,Y,,350
+1448,SALOIO,1160,Lake Saloio,39.613333,-9.015833,70,PRT,Portugal,Simon,1,N,,
+1449,LAILIAS,1161,Lailias,41.267778,23.599444,1420,GRC,Greece,Simon,2,Y,,
+1450,SIDON1,1162,Sidon,33.564167,35.368611,1,LBN,Lebanon,Simon,1,N,,
+1451,TYR1,1163,Tyre,33.278056,35.203056,3,LBN,Lebanon,Simon,1,N,,
+1452,LAVPICCO,1164,Lago Picco di Avigliana,45.05,7.38,356,ITA,Italy,Walter,2,Y,,
+1453,CABURN,1165,Caburn,50.857222,0.050556,6,GBR,United Kingdom,Simon,2,Y,,
+1454,DOWELS,1166,The Dowels Walland marsh,51.043611,0.828056,0,GBR,United Kingdom,Simon,2,Y,,
+1455,HMS,1167,Horsemarsh Sewer,51.051944,0.826667,0,GBR,United Kingdom,Simon,2,Y,,
+1456,HOPEFARM,1168,Hope farm Walland marsh,51.017778,0.835556,2,GBR,United Kingdom,Simon,2,Y,,
+1457,LCC,1169,Little Cheyne Court Walland marsh,50.962778,0.83,3,GBR,United Kingdom,Simon,2,Y,,
+1458,BOITES1,1041,Lac des Boites,45.056111,5.885278,1560,FRA,France,Simon,1,Y,,
+1459,LA13,1170,Lake of Annecy,45.856667,6.172222,447,FRA,France,Simon,2,Y,,
+1460,SLA13,1170,Lake of Annecy,45.856667,6.172222,447,FRA,France,Simon,1,N,,
+1461,ANNECY,1170,Lake of Annecy,45.856667,6.172222,447,FRA,France,Simon,2,N,,1100
+1462,MAHARLOU,1171,Maharlou Lake,29.477222,52.759722,1455,IRN,Iran,Simon,1,N,,
+1463,ALMALOU3,1172,Lake Almalou,37.665278,46.631944,2410,IRN,Iran,Simon,1,N,,
+1464,BUR,1173,Bad Urach,48.479444,9.405,466,DEU,Germany,Thomas,1,N,,
+1465,BUS8707,1174,Bodensee-Untersee,47.720833,8.973611,395,DEU,Germany,Thomas,1,N,,
+1466,KIN,1175,Kirschheim unter Teck,48.617222,9.4725,350,DEU,Germany,Thomas,1,N,,
+1467,OVSA,1176,Oberderdingen-Gro_villars,49.0425,8.760278,207,DEU,Germany,Thomas,1,N,,
+1468,OVSC1,1176,Oberderdingen-Gro_villars,49.0425,8.760278,207,DEU,Germany,Thomas,2,Y,,
+1469,MERZDORF,1177,Merzdorf,51.4,13.533333,100,DEU,Germany,Thomas,1,Y,,
+1470,ADR309,1178,ADR309,41.818333,17.19,-929,MES,Mediterranean Sea,Simon,1,N,,
+1471,ADR353,1179,ADR353,42.12,17.633056,-1207,MES,Mediterranean Sea,Simon,1,N,,
+1472,MD952039,1180,MD95-2039,40.578333,-10.348333,-3381,ATO,Atlantic Ocean,Simon,1,N,,
+1473,MD952043,1181,MD95-2043,36.143333,-2.621111,-1841,MES,Mediterranean Sea,Simon,1,N,,
+1474,MD992348,1182,MD99-2348 (103),42.692778,3.841667,-296,MES,Mediterranean Sea,Simon,1,N,,
+1475,PRGL14,1183,PRGL 1-4,42.689722,3.8375,-299,MES,Mediterranean Sea,Simon,1,N,,
+1476,FANGEAS,1184,Fangeas,44.716111,6.449444,2000,FRA,France,Simon,2,Y,,40
+1477,HUZ1,1185,Huzenbacher See,48.574444,8.348056,747,DEU,Germany,Thomas,1,N,,
+1478,HUZ2,1185,Huzenbacher See,48.574444,8.348056,747,DEU,Germany,Thomas,2,Y,,
+1479,ORTA3,1186,Ortasee,45.816667,8.4,290,ITA,Italy,Simon,1,N,,
+1480,ORTA4,1186,Ortasee,45.816667,8.4,290,ITA,Italy,Simon,1,N,,
+1481,ORTA5,1186,Ortasee,45.816667,8.4,290,ITA,Italy,Simon,1,N,,
+1482,BIBERACH,1187,Biberach,48.115,9.767778,579,DEU,Germany,Thomas,1,N,,
+1483,PRD4,1188,PRD-4,42.533333,-8.516667,260,ESP,Spain,Simon,2,Y,,
+1484,ABIARE,1189,Abiare,37.15,9.1,110,TUN,Tunisia,Simon,1,N,,
+1485,BMTIRBOG,1190,Beni M'tir,36.716667,8.7,663,TUN,Tunisia,Simon,1,N,,
+1486,BMTIRMAR,1190,Beni M'tir,36.716667,8.7,663,TUN,Tunisia,Simon,1,N,,
+1487,DARFATMA,1191,Dar Fatma,36.816667,8.766667,780,TUN,Tunisia,Simon,1,N,,
+1488,KEFEDDBA,1192,Kef Eddba_,36.666667,8.35,800,TUN,Tunisia,Simon,1,N,,
+1489,MAJENHMI,1193,Majen Ben H'mida,37.133333,9.083333,330,TUN,Tunisia,Simon,1,N,,
+1490,MAJORBOG,1194,Majen El Orbi,37.15,9.083333,200,TUN,Tunisia,Simon,1,N,,
+1491,MAJORMAR,1194,Majen El Orbi,37.15,9.083333,200,TUN,Tunisia,Simon,1,N,,
+1492,OUINETEN,1195,Ouinet Ennessours,36.6,8.4,1050,TUN,Tunisia,Simon,1,N,,
+1493,FATMA4,1191,Dar Fatma,36.816667,8.766667,780,TUN,Tunisia,Simon,1,N,,
+1494,FATMA3,1191,Dar Fatma,36.816667,8.766667,780,TUN,Tunisia,Simon,1,N,,
+1495,GHORRA01,1196,Djebel El Ghorra,36.5975,8.394722,1203,TUN,Tunisia,Simon,1,N,,
+1496,GHORRA04,1196,Djebel El Ghorra,36.5975,8.394722,1203,TUN,Tunisia,Simon,1,N,,
+1497,ORBI1,1194,Majen El Orbi,37.15,9.083333,200,TUN,Tunisia,Simon,1,N,,
+1498,MHIRIS,1197,Mhiris el Hamrane,36.795556,8.784444,550,TUN,Tunisia,Simon,1,N,,
+1499,ARAGO,1198,Caune de l'Arago,42.839167,2.750556,200,FRA,France,Simon,1,N,,
+1500,BOURDIM,1199,Bourdim,36.803333,8.253889,13,DZA,Algeria,Simon,1,N,,
+1501,GARATOUE,1200,Garaat El-Ouez,36.818333,8.333333,45,DZA,Algeria,Simon,1,N,,
+1502,ESTEBAN,1201,San Esteban del valle,40.319167,-4.966389,1600,ESP,Spain,Simon,1,N,,
+1503,BABIDOL,1202,Babi DÊl,54.294167,18.310833,187,POL,Poland,Simon,1,N,,
+1504,STMOMES2,1203,Saint-Momelin,50.794167,2.251667,2,FRA,France,Simon,2,N,,
+1505,WATENP12,1204,Watten,50.833611,2.213333,2,FRA,France,Simon,1,Y,2000,
+1506,WATTENS1,1204,Watten,50.833611,2.213333,2,FRA,France,Simon,2,Y,,1500
+X1,VOULK,X1,Lake Voulkaria,38.87,20.83,0,GRC,Greece,Thomas,2,N,,
+X10,GGFHM,X10,Georgenfelder Hochmoor,50.75,13.75,860,DEU,Germany,Thomas,1,N,,
+X11,ODER,X11,Oder valley,53.06,14.13,10,DEU,Germany,Thomas,2,N,,
+X12,KREBSS,X12,Krebssee,52.85,14.1,5,DEU,Germany,Thomas,1,Y,,
+X13,UECKER,X13,Ueckersee,52,14.2,3.1,DEU,Germany,Thomas,1,N,,
+X14,AHLEQUEL,X14,Ahlequellmoor ,51.73,9.51,300,DEU,Germany,Thomas,2,N,,
+X15,KMOCH,X15,Kleiner Mochowsee,53.24,13.86,10,DEU,Germany,Thomas,2,N,,
+X16,LODDIG,X16,L_è_ddigsee ,53.43,11.85,43,DEU,Germany,Thomas,2,N,,
+X17,WEISSEN,X17,Weissenstadter Forst,50.14,11.88,725,DEU,Germany,Thomas,1,N,,
+X18,RAPPERS,X18,Rappershausen ,50.38,10.39,383,DEU,Germany,Thomas,1,N,,
+X2,BOKAN,X2,Bokanjacko Blato,44.18,15.23,25,HRV,Croatia,Thomas,1,N,,230
+X3,LUEDER,X3,Luederholz,51.68,10.31,228,DEU,Germany,Thomas,1,N,,
+X4,SILBER,X4,Silberhohl ,51.91,10.18,180,DEU,Germany,Thomas,2,N,,
+X5,LUTTER,X5,Luttersee,51.58,10.16,164,DEU,Germany,Thomas,2,N,,
+X6,BRUCH,X6,Bruchberg,51.76,10.46,825,DEU,Germany,Thomas,2,N,,
+X7,SONNEN,X7,Sonnenberger Moor,51.77,10.52,780,DEU,Germany,Thomas,2,N,,
+X8,HANCZA,X8,Hancza ,54.27,22.82,229,POL,Poland,Thomas,2,N,,
+X9,MFM,X9,Meerfelder Maar,50.1,6.75,336,DEU,Germany,Thomas,1,Y,,
+X19,SVARCEN,X19,Svarcenberg ,49.15,14.7,420,CZE,Czech Republic,Walter,2,Y,,
+5017,FORDMOSS,5017,Ford_Moss,55.66,-2.21,50,GBR,United Kingdom,Basil,1,Y,,
+51001,ACEBRON,51001,El Acebron,37.12,-6.5,25,ESP,Spain,Basil,2,Y,,
+51005,MADRES-2,51005,Laguna de las Madres II,37.15,-6.83,3,ESP,Spain,Basil,2,Y,,
+51007,MEDINA,51007,Laguna Medina,36.62,-6.05,30,ESP,Spain,Basil,2,Y,,310
+51009,TREMEDAL,51009,Orihuela del Tremedal,40.54,-2.05,1650,ESP,Spain,Basil,2,Y,,
+51019,TIGALM,51019,Tigalmamine,32.9,-5.35,1626,MOR,Morocco,Basil,1,N,,270
+54095,IMOLA-CS,54095,Imola-CSG50-Csogle,47.23,17.23,100,HUN,Hungary,Basil,1,Y,,495
+54096,IMOLA-PE,54096,Imola-PEB88-Poloske,46.76,16.93,150,HUN,Hungary,Basil,1,Y,,
+54099,IMOLA-ZV,54099,Imola-ZV63,46.65,17.22,104,HUN,Hungary,Basil,1,N,,
